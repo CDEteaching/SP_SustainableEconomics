@@ -1,0 +1,90 @@
+project:
+  type: book
+  output-dir: docs
+  resources: 
+    - "*.png"
+    - "*.jpeg"
+    - "*.jfif"
+    - "*.svg"
+
+book:
+  title: "Introduction to Sustainable Economics"
+  subtitle: "Additional attainments for the Master's in Sustainability Transformations"
+  favicon: images/
+  reader-mode: true
+  page-navigation: true
+  back-to-top-navigation: true
+  search: true
+  site-url: https://cdeteaching.github.io/SP_SustainableEconomics/
+  repo-actions: [issue]
+ 
+  sidebar:
+    search: true
+    logo: images/cdelogo_e.png
+    tools:
+      - icon: file-earmark-pdf
+        href: https://github.com/CDEteaching/SP_IDTDmethods/blob/master/pdf/SP_SustainableEconomics.pdf
+        text: "Course Script (PDF)"
+      - icon: bug
+        href: https://github.com/CDEteaching/SP_SustainableEconomics/issues/new
+        text: "Report issue"
+        
+  page-footer:
+    border: true
+    left: |
+      "This a product of <a href="www.cde.unibe.ch/">![](/images/cdelogo_e.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+    center: |
+      
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>. This work is licensed under a [CC-BY-NC-ND 4.0 Int License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+  
+  
+  chapters:
+  - index.qmd
+  - 1_Introduction.qmd
+  - 2_HistoryEconThoughts.qmd
+  - 3_BasicEcon.qmd
+  - 4_PluralEcon.qmd
+  - 5_ProblemAnalysis.qmd
+  - 6_StrategiesFramework.qmd
+  - 7_Approaches.qmd
+  - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    mainfont: Roboto
+    monofont: Fira Code
+    highlight-style: arrow
+    monobackgroundcolor: "#F7F7F7"
+    theme:
+      light: [theme.scss]
+      dark: [darkly]
+    toggle: true
+    default-mode: dark
+    callout-icon: false
+  
+  pdf:
+  # render pdf to separate folder -> do it manually via terminal
+  # "quarto render --to pdf --output SP_IDTD.pdf --output-dir pdf"
+    documentclass: book
+    mainfont: "Times New Roman"
+    sansfont: "Arial"
+    monofont: "Courier New"
+    urlcolor: "blue"
+    number-depth: 3
+    papersize: a4
+    fig-pos: "H"
+    classoption: openany
+    pdf-engine: xelatex
+    metadata:
+      title: "book"
+    callout-icon: false  
+    
+    
+
+editor: visual
+
+

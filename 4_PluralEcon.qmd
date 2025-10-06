@@ -1,0 +1,72 @@
+---
+title: "Pluralist economics"
+tbl-cap-location: top
+fig-cap-location: bottom
+---
+
+As the first sections have shown, economics is currently dominated by a single school of thought, neoclassical economics. However, economics consists of many **different schools of** thought based on different assumptions, with different perspectives and focuses, some of which use different methods and arrive at different conclusions. In order to meet the complexity of current challenges, we believe that it is essential to be able to draw on this diversity of theories and tools. This short module therefore aims to provide an introduction to the diversity of economics, known as pluralist economics.
+
+In the course, there will be some opportunities to explore individual schools of thought in greater depth. However, it will not be possible to cover all schools of thought in depth. We are also happy to provide further material if you would like to explore pluralist economics or individual schools of thought in greater depth.
+
+This section is not about knowing the details of the different schools of thought, but rather about becoming familiar with the diversity of economics. Accordingly, the section mainly provides material to explore the various schools of thought freely and even playfully. For this purpose, we created a crossword puzzle to explore the diversity of economics. You will find it later in the section.
+
+::::: learning
+::: learning-header
+**Learning Outcomes**
+:::
+
+::: learning-body
+-   Students can explain the fundamentals of pluralist economics and identify different schools of thought.
+:::
+:::::
+
+## Neoclassical economics
+
+As already indicated several times, current economic theory is strongly dominated by one school of thought, neoclassical economics. In the following, we will take a brief look at the basic principles of neoclassical economics and what is problematic about it from the perspective of a sustainable economics. Criticism of neoclassical economics should not be equated with the idea that neoclassical economics as a school of thought is obsolete. Rather, it is important to recognize the questions for which the neoclassical lens is useful and the questions for which other schools of thought offer more helpful perspectives. Furthermore, **neoclassical economics** is **not a homogeneous field,** remains a vague term, and is therefore sometimes used in different ways. The term was coined by Thorstein Veblen in the early 20th century to describe Alfred Marshall's synthesis of subjective and objective value theory as a supply and demand diagram. Marshall combined the classical understanding that the value of a good is determined by its production costs with the new insights of the marginal utility school, which determined value by individual utility. The market diagram, which represents supply and demand, is at the heart of neoclassical economics.
+
+According to neoclassical understanding, the central problem of economics lies in the **scarcity of societal resources**, because it is assumed that human needs are fundamentally insatiable. Economics as a science therefore aims to study the functioning of a national economy in order to enable the highest possible level of prosperity through optimal resource allocation. Neoclassical theory bases its conception of the economy on rational individuals who are faced with alternatives that need to be weighed up and who want to maximize their own utility with their decisions. This weighing up of alternatives is based on a comparison of marginal utility and marginal costs. This involves the abstraction of **homo economicus**, who represents an ideal type of individual who acts rationally in the sense of maximizing utility and primarily with a view for his own self-interest. Based on this starting point of weighing up different alternatives, neoclassical economics is often understood as **the science of decision-making**, which makes it applicable to all areas of life. As we have already seen in the module on the basics of economics, the price mechanism in a market organizes the allocation of scarce resources and ensures that supply and demand, assuming perfect competition (see how the market works), settle at an equilibrium, which also corresponds to the economic optimum. From this perspective, the **market** emerges as the ideal form of allocation and state intervention as disruptive, which is expressed politically in the liberalization of markets and the reduction of the state to a minimum.
+
+As already indicated several times, these assumptions underlying neoclassical economics, such as rational and utility-maximizing individuals and perfect competition, have been criticized from various voices. However**,** much more serious than the explicit assumptions are the **implicit value judgments and predetermined perspective** that are adopted when looking through neoclassical glasses. For example, entire sectors of the economy, such as the unpaid sector, are ignored. The idea of what economics is and what problems it addresses (allocation of scarce resources, focus on decision-making, etc.) is based on a normative foundation and defines the framework of possibilities. For example, markets are assumed to be natural, and the structural inequalities associated with them are accepted as given conditions. Improvements can only be achieved through marginal changes to certain target indicators within this framework.
+
+These brief paragraphs on neoclassical economics and some of the criticisms raised are not intended to provide a comprehensive description, but merely to show that neoclassical economics takes a certain perspective (a more detailed description of neoclassical economics can be found here). We will examine specific aspects in more detail later on. Given its strengths and limitations, neoclassical economics is well suited to analyzing some issues, but less so for others. Economics offers a wide range of thought styles, which are suited to analyzing different problems to varying degrees. **However,** as will be explained below, **economics** is **dominated by neoclassical economics,** which prevents the economic toolkit from being used to its full potential. In this course, we also want to open **your perspective to this diversity**.
+
+## Why do we need pluralist economics?
+
+In November 2011, dozens of students at Harvard University walked out of the introductory lecture given by Professor N. Gregory Mankiw in protest against what they saw as the politically biased presentation of economic relationships by lecturers. The students criticized Mankiw's teaching at Harvard as being characterized by an unacceptable ideological bias that contributes to the great economic inequality in today's society. This student protest made headlines not only because of Harvard University's prominent position in the international academic world, but also because Gregory Mankiw is the author of an introductory textbook whose enormous influence on university education in economics has long since reached global proportions. The students also considered it particularly worthy of criticism that alternative economic approaches are practically non-existent in teaching (Harvard Political Review 2011).
+
+In stark contrast to other social sciences such as sociology or political science, university education in economics today is characterized by a **strong paradigmatic uniformity of teaching content**. Many textbooks do not seek to acknowledge competing paradigms with different perspectives on economic relationships, but instead too often suggest to readers that there is a **single economic way of thinking,** neoclassical economics, which can and should be applied equally to all areas of economics—and, in principle, to all social sciences.
+
+> "Indeed, I have come to the position that the economic approach is a comprehensive one that is appli-cable to all human behavior, be it behavior involving money prices or imputed shadow prices, repeated or infrequent decisions, large or minor decisions, emotional or mechanical ends, rich or poor persons, men or women, adults or children, brilliant or stupid persons, patients or therapists, businessmen or politicians, teachers or students." - Becker, S. Gary in The Economic Approach to Human Behavior (1976), p. 8
+
+[Gary S. Becker received the Alfred Nobel Memorial Prize in Economic Sciences in 1992](https://www.nobelprize.org/prizes/economic-sciences/1992/press-release/) for his extension of microeconomic theory to a wide range of human behavior and human cooperation. Critics describe this extension of microeconomic theory to almost all areas of human behavior and cooperation as economic imperialism. The sometimes very one-sided textbooks in economics contribute to economic imperialism. Graupe (2015) describes economic education as an intellectual monoculture.
+
+Two works are particularly significant in this context: "Economics" by Paul A. Samuelson (co-edited with William D. Nordhaus since 1985) and "Principles of Economics" by N. Gregory Mankiw. Samuelson's textbook, first published in 1948, is considered the standard work on which all other textbooks today are based. Microeconomics in particular can be seen as an area "where the victory of Samuelson’s early pedagogy has been most complete and where the beliefs of economists have changed least” (Skousen 1997, p. 138). Mankiw's "Principles of Economics" has become an international bestseller in recent years. This textbook by George W. Bush's former economic advisor also occupies a central position at Swiss universities. The main criticism of standard works on economics is that concepts and the thinking underlying the models and assumptions are hardly described in concrete terms, threatening to freeze students' perspectives into a single point of view. Students are not encouraged to reflect on the conclusions drawn in the textbooks.
+
+### Blind spots in economics textbooks
+
+After reading Samuelson/Nordhaus or Mankiw, hardly any student will be able to say exactly how neoclassical economics thinks about "the market," what "thinking tools" it uses to do so, and why it does so. Nevertheless, through constant repetition requiring the same type of problem-solving in varying degrees of complexity, students are led to always think in terms of price-quantity diagrams and to determine equilibrium quantities and prices, regardless of the specific task at hand. Whether the questions concern ice cream, wheat, oil, gasoline, rent, wages, steel, aluminum, education, land, or capital, the textbooks always claim that they can be solved with the help of this diagram. What is rarely questioned, however, is the existence of the underlying functional relationships themselves. Whether "supply curve," "demand curve," or "equilibrium price," students learn to use these "thinking tools" to ponder everything in the world without reflecting on them themselves and without being able to question the underlying system of rules and assumptions. As explained in the section on neoclassical economics, this perspective is shaped by value judgments and worldviews. Our aim for this course on sustainable economics is to give students an insight into different thought styles in economics and enable them to identify the most common arguments in the current economic and social debate on economic growth, welfare, environmental protection, and employment. **This enables students to perceive the (economic) world in a more differentiated way.** After all, how we learn to perceive the world also determines what options for action we recognize and exercise in our everyday lives and as citizens.
+
+> "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail." - Abraham Maslow in Psychology of Science 1966, p. 15
+
+In the video below, Professor Ha-Joon Chang from the University of Cambridge shows the different thought styles within economics that exist and how these can lead to different economic policy programs:
+
+{{< video https://www.youtube.com/watch?v=NdbbcO35arw >}}
+
+## Scavenger hunt through pluralist economics
+
+Exploring Economics is an open project of the pluralist economics network, which cooperates with various international actors in the design of the e-learning platform. The network consists of many local groups and individuals. There are numerous opportunities to get involved and contribute.
+
+We believe that this open platform offers many valuable contributions. That is why we have designed a scavenger hunt through the platform so that you can get to know it in a playful way.
+
+**Exercise - Pluralist Economics:** In this section, you will solve the crossword puzzle ["A journey through the Economic Theories"](https://ilias.unibe.ch/goto_ilias3_unibe_file_3346159.html) using the [Exploring Economics platform](https://www.exploring-economics.org/en/). Under the heading "Orientation," you will find solutions to the terms sought in the puzzle. This will give you an overview of the different schools of thought in economics and how these perspectives influence research and its results. This exercise is voluntary and is intended to give you a playful introduction to pluralist economics. You are welcome to contact us to discuss any questions or clarify any uncertainties. On demand we provide you with the solutions of the crossword puzzle.
+
+![Excerpt from the “Exploring Economics” website, which categorizes the different schools of thought according to the question “Which problem is central to the economy?”.](images/Fig3_1_PluralEcon.png){#fig-pluralecon}
+
+::: {.callout-note collapse="true"}
+### Further reading
+
+If you are already well acquainted with the basics, or if you wish to engage more deeply with neoclassical economics, the following literature is recommended for further study:
+
+-   The first chapter of the book “The Microeconomics Anti-Textbook”, which examines how economics is presented in introductory microeconomics textbooks. This chapter is particularly valuable for economics students already familiar with the basics, as it provides a contrast to the standard textbook.
+-   For interested students, the critical discussion of neoclassical consumption theory by Ben Fine (2016) is recommended
+:::

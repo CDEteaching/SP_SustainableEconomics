@@ -1,0 +1,107 @@
+---
+title: "Introduction"
+tbl-cap-location: top
+fig-cap-location: bottom
+---
+
+::::: learning
+::: learning-header
+**Learning Outcomes**
+:::
+
+::: learning-body
+-   can explain what economics is concerned with.
+:::
+:::::
+
+### The discipline of economics
+
+The term 'economics' helps to situate the discipline within the broader landscape of academic fields (see Fig. 1). As part of the humanities and cultural sciences, economic science deals explicitly with the economy as a man-made object of study (@engelkampEinfuehrungVolkswirtschaftslehre2013a, p. 3). Economic science can be divided into two broad areas: **economics** and **business administration**.
+
+![Disciplinary positioning of economics. Source: Own illustration based on Engelkamp & Sell (2013), p.3.](images/Fig1_1_EconomicScience.png){#fig-EconScience}
+
+**Business administration:** "Business administration is the study of the economic, organizational, technical, and financial processes in companies and various economic institutions" (@friedliBetriebswirtschaftslehreZusammenhangeVerstehen2019, p. 16, own translation). In this field, researchers develop a microeconomic perspective on the respective subject of investigation.
+
+**Economics:** Unlike business administration, economics does not examine what happens within economic actors but focuses on the interaction between the various economic actors and also takes a macroeconomic perspective. In this course, we will deal with this part of economic science.
+
+With the development and differentiation of economic theories, various definitions of economics have been established and advocated. The most widely accepted definition within economics today was originally proposed by Lionel Robbins and emphasizes the relationship between the **scarcity of resources** and the satisfaction of **needs** by **economic agents**. Robbins defines economics as follows: "*Economics is the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses*" (@robbinsEssayNatureSignificance1932, p. 15). Robbins' definition is influenced by his theoretical orientation along the **neoclassical school of thought** (mainstream/orthodox economics). Building on this, most mainstream textbooks define economics as a science of (rational) decision-making that deals with how people make decision in the light of scarce resources to achieve their goals.
+
+The heterodox economist Ha-Joon Chang [criticizes](http://www.huffpost.com/entry/ha-joon-chang-economics_n_5120030) this definition as too specific and argues that it stems from a theoretical approach and thus already prescribes a certain approach (@changLifeUniverseEverything2014). Chang defines economics not by its theoretical approach, but by its **object of study:** the economy. Economics therefore deals with everything related to the (re)production, exchange, and distribution of goods and services to satisfy human needs. In addition to and between these definitions, there are many other definitions of economics. Based on different understandings of economics, **different schools of thought** consequently focus on different subject areas, such as power structures, institutions, or macroeconomic and social relationships and structures. In the section on pluralist economics (section 3), we will take a closer look at what constitutes neoclassical economics (mainstream) and learn more about some of the other schools of thought. In the following, we will generally follow Chang's understanding, which takes the subject of investigation and not a theoretical approach as the basis for our understanding of economics. Accordingly, this understanding also allows for many different approaches and schools of thought to be used to understand economic relationships.
+
+## Subfield of economics
+
+Economics can be divided into **three major subfields**: economic theory, economic policy, and public finance. There are different ways to divide the field of economics, but using these three categories is a helpful way to get an overview. For our purposes, the first two — economic theory and economic policy — are especially important.
+
+\
+**Economic theory** describes theories from the past to the present and highlights their implications for how the economy is described and evaluated. There are many different schools of thought within economic theory (these are discussed in more detail in the learning sequence [on pluralist economics](https://ilias.unibe.ch/goto.php?target=lso_2808206)). In principle, all schools of thought can be divided into two sub-areas of economic theory: microeconomics and macroeconomics.
+
+-   **Microeconomics** deals with individual economic entities, such as households and companies, and their mutual relationships. It does not make any statements about aggregate economic relationships but rather examines the behavior of individual companies and households and their coordination process via the market with the help of price adjustments (@bontrupVolkswirtschaftslehreAusOrthodoxer2021a, p. 1).
+
+-   In contrast, **Macroeconomics** deals with the aggregate economic relationships between economic sectors and different markets and examines macroeconomic phenomena. For example, it examines macroeconomic indicators such as the unemployment rate or inflation.
+
+**Public finance** examines the various components of the national budget, such as taxes and subsidies, and their interrelationships. This implicitly raises questions about the role of the state in resource allocation and the distribution of income and wealth.
+
+**Economic policy** deals with state intervention in the economy. It is concerned with shaping social life in order to increase social welfare (@bontrupVolkswirtschaftslehreAusOrthodoxer2021a, p. 2). However, views on what constitutes social welfare can vary greatly. The state has a significant influence on how economic actors interact, for example, but not exclusively through targeted interventions. The targets of economic policy can include employment, price stability, foreign trade, economic growth, the distribution of income or wealth, and the protection of the natural environment. Examples of economic policy interventions include the prohibition of cartels or the introduction of a minimum wage.
+
+**Economic history** is another important subfield, focusing on economic policy and dynamics over extended timeframes or through a historical lens. One possible subject of investigation could be the effectiveness of economic policy during the Great Depression. The historical development of economic theories is examined in the context of the history of economic thought.
+
+In addition, there are various specialized fields within economics, such as behavioral economics, education economics, and health economics, each focusing on a specific area of inquiry.
+
+::: {.callout-note collapse="true"}
+### Further readings
+
+Ha-Joon Chang's book "Economics: The User's Guide" offers an easy introduction to topics in economics, provides a historical perspective and a good overview of past and current debates. Depending on your interests, individual chapters can also be consulted.
+
+Chang, Ha-Joon. 2014. Economics: The User’s Guide. First U.S. edition. New York: Bloomsbury Press.
+:::
+
+## Economics and value judgments
+
+Many economists — perhaps even the majority — hold that economic theory should be free from assumptions about human behavior, societal structures, and normative values. Economic theory should therefore be neutral and free of values and capable of formulating universally valid laws. According to this view, economics is regarded as a positive science. A positive science describes the world as it is, without making value judgments or taking a particular perspective. Typically, natural sciences are understood as positive sciences. Accordingly, mainstream economics distinguishes between positive statements (how the world is) and normative statements (how the world should be) and argues that these spheres are clearly separable (the fundamental philosophical position lies in logical positivism). The focus is accordingly on positive statements.
+
+Critics argue that such a clear distinction between positive and normative statements, between facts and values, is not possible for social sciences such as economics and therefore makes objective and value-free analysis impossible (see, for example, Davis 2016). Hilary Putnam argues that facts and values are often not clearly separable but intertwined (@putnamCollapseFactValue2002). Thus, economic concepts and theories are always shaped by values and worldviews in their construction.
+
+Following the critics we hold it to be difficult — if not impossible — to draw a clear line between positive and normative perspectives. The different ways in which economics can be defined show that value judgments are always implicit. One perspective may focus on the efficient allocation of scarce re-sources in a society, while another may focus on overcoming poverty and meeting the basic needs of all people in an economy. As soon as I favor one perspective over another, I have made an initial value judgment. In module 3, we take a closer look at the implicit value judgments of neoclassical economics, which sees itself as positive economics.
+
+Acknowledging that economics is not entirely value-free or objective does not mean rejecting the existence of facts or treating all viewpoints as equally valid. Nor does it deny the existence of an objective reality — it simply recognizes that we can only approximate it to varying degrees.
+
+Like any other science, economics must be guided by scientific principles and methods. In addition, assumptions and value judgments should be made explicit and transparent. In addition to criticism of the implicit value judgments behind neoclassical economics, the explicit framework of assumptions also leads to controversial discussions, particularly regarding the extent to which the assumptions must realistically reflect reality. Must the initial assumptions, such as the existence of perfect competition, be realistic in order to gain valuable insights? At first glance, the answer is clear: unrealistic or incomplete assumptions must also lead to false conclusions. According to the Paul Samuelson (1915-2009), one of the most famous economists of the 20th century, it is impossible to draw true conclusions from demonstrably false assumptions. However, proponents of so-called instrumentalism argue differently. They say that, given the complexity of human behavior, it is necessary to abstract and leave out the insignificant in analysis. In his search for an efficient method to discover far-reaching insights and recommendations for action, US economist Milton Friedman, also one of the most famous economists of the 20th century, even takes an extreme anti-realist position. Working within the framework of a superficial world is declared an unproblematic necessity:
+
+> "Truly important and significant hypotheses will be found to have assumptions that are widely inaccurate descriptive representations of reality, and in general the more significant the theory, the more unrealistic the assumption. \[...\] To be important, therefore, a hypothesis must be descriptively false in its assumptions." - Milton Friedman, 1953, p. 14.
+
+The debate as to whether economics is free of value judgements or not has been ongoing since the development of mainstream economics, neoclassical economics, towards the end of the 19th century and continues to this day, with no conclusive resolution. This is exemplified by two quotes from two well-known economists of the first half of the 20th century:
+
+> "Economics deals with ascertainable facts; ethics with valuations and obligations. The two fields of inquiry are not on the same plane of discourse." - Lionel Robbins in An Essay on the Nature and Significance of Economic Science (1932), p. 132.
+
+> "As against Robbins, economics is essentially a moral science. That is to say, it employs introspection and judgment of value." — John M. Keynes in a letter to Sir Roy Harrod, July 4, 1938, in Atkinson (2009), p. 791.
+
+### What does this mean for economic policy?
+
+Economic conclusions — like economic analyses — can never be made entirely free of value judgments. For example, when certain processes produce gains for some economic actors and losses for others, it is impossible to assess the overall net effect without introducing normative assumptions. Even appealing to pure economic efficiency already reflects a value judgment: it prioritizes efficiency over other possible criteria for evaluating outcomes. At first glance, it might seem reasonable to treat gains and losses equally — adding them up on a one-to-one basis without weighting. However, this approach assumes that all outcomes are of equal significance to those affected. In practice, this is rarely the case. Some individuals may experience losses that push them into an existential crisis—for instance, if their income drops below the threshold of physical or cultural subsistence. Depending on one’s ethical perspective, there may be strong reasons to argue that such losses should be weighted more heavily than the corresponding gains of others. Not applying any weighting at all is itself a normative choice. If we allow weights to vary continuously, then in principle, **there are infinitely many possible normative positions** one can take when evaluating such outcomes.
+
+When assessing such market processes, **normative questions** arise that economics, like any other social science with its empirical methods, is unable to answer objectively and value-free. It must therefore present these questions in such a way that they can be discussed by society and, if necessary, decided by parliaments through legislation.
+
+## Thought styles and thought collectives
+
+As discussed in the previous chapter, economic theories are always shaped by value judgments and underlying worldviews. Therefore, there is no clearly objective economic theory, but rather a multitude of perspectives that make it possible to analyze and describe economic phenomena. There is no neutral "view from nowhere" or purely objective perspective, as our perception is shaped by numerous influences, such as our education, social and cultural environment, language, material living conditions, and personal experiences. These influences shape our perspective of the world. A helpful metaphor is that of glasses: some lenses allow us to see broad patterns, while others reveal fine details and nuances. These different “glasses” influence how we see the world — not arbitrarily, but within identifiable limits. As discussed earlier, multiperspectivity has boundaries; not every interpretation is equally valid or supported by evidence.
+
+In the philosophy of science, such perspectives are often referred to as paradigms or thought styles. The concept of “thought style” (Denkstil) was developed by Ludwik Fleck, a Polish physician and philosopher of science, decades before Thomas Kuhn introduced the more widely known idea of paradigms. Fleck, born in 1896 in Poland and died in 1961 in Israel. In 1944 he was deported to the concentration camp Buchenwald. He was tasked with developing a typhus vaccine for the SS. However, he reportedly administered placebos to the guards and gave the actual medicine to fellow prisoners.
+
+In his scientific work, Fleck emphasized the dependence of thinking on values and contexts. He rejected the idea that knowledge is objective, neutral, and universal. He argued that the production and use of knowledge take place in specific environments, which influences its meaning and effect. Knowledge is used differently in concentration camps than in NGOs or corporate research departments. Knowledge is always embedded in institutions and power structures, and scientists are influenced by their environment and previous experiences.
+
+Thought collectives are groups of people who share a common way of thinking and use certain concepts and methods. Thought collectives therefore use a specific lens through which to view the world. These thought collectives are often conservative and resistant to change, i.e., they resist changes and further developments in their way of thinking. Since, as Fleck emphasized, people can think, argue, and understand in fundamentally different ways, people who belong to different thought collectives often have difficulty understanding the thought processes of other thought styles.
+
+Fleck's findings show that science and reasoning are by no means independent of social, cultural, and historical contexts. They illustrate the diversity of perspectives from which scientific problems can be viewed and emphasize that no single theory or way of thinking can fully capture the whole of reality. Instead, different thought styles and thought collectives are capable of providing diverse insights and enriching our understanding of complex phenomena. This leads to different economic policy recommendations and offers a wide range of approaches to solving complex challenges.
+
+### Thought collective in economics
+
+As already indicated several times, economics also consists of a multitude of different thought collectives that adopt certain perspectives or ways of thinking based on value judgments and worldviews. This diversity of thought collectives (often referred to as schools of thought) is described by the term "pluralist economics." At present, economics is strongly dominated by one thought style known as neoclassical economics, which is often described as mainstream economics. However, we believe that students should not only learn about the thought style of the prevailing thought collective but also gain an insight into how thought styles in economics have developed and what other thought styles exist in economics. The next chapter provides an introduction to the history and development of thought styles in economics. We will then deal with current schools of thought in the following sections.
+
+::: {.callout-note collapse="true"}
+### Further readings
+
+-   Yuval Harari and the legend of Peugeot in his book "A brief history of humankind" His thesis: The truly sufficient difference between us and other animals is our ability to create cooperative net-works in which millions of complete strangers work together toward common goals. We can co-operate on a large scale because we follow shared intersubjective fictions. We work successfully with strangers because, like them, we believe in things such as gods, nations, money, or human rights. And yet none of these things exist outside the stories that humans invent and tell each other. There are no gods in the universe, no nations, no money, and no human rights—except in the collective imagination of humans.
+
+-   [Podcast with Yuval Harari on the topic of "trickle-down economics": What is the trick in trickle down?\
+    ](https://pitchforkeconomics.com/episode/what-is-the-trick-in-trickle-down/)It's how wealthy elites and their neoliberal lackeys convince you that what's good for them (tax cuts, deregulation, etc.) is good for you... and that policies like the minimum wage, overtime, and paid sick leave will ruin the economy. Economics is a story we tell ourselves to help explain who gets what, and why. In this episode, we explore how to tell a better story.
+:::

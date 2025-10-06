@@ -1,0 +1,47 @@
+# Preface {.unnumbered}
+
+*Version 1.0, October 2025*
+
+This e-learning course is intended for students to work through it at their own pace. There are no sessions held in presence. However, students can reach out to the lecturer for questions and support at any time via email. The course is structured along six sections that build on each other. Many sections are interactive and contain links and videos to consult. For more information on the course please see the information document of the course.
+
+The course is divided into three blocks. In the introductory block, students are introduced to basic concepts and the theoretical assumptions of economics (Section 1-4). This is followed by a block on the problem analysis addressing the ecological, social, and economic challenges faced by the current economic and societal system (Section 5). In the final block, participants explore various building blocks that provide starting points for shaping a sustainable economy (Section 6-7).
+
+Below you will find the contents of the course. Following the script will guide you through all the sections and learning material in a sensible order. Since this course requires a high degree of autonomy in acquiring the material, we also encourage you to contact us via email if you want to discuss questions (see information document).
+
+::::: learning
+::: learning-header
+**Learning Outcomes**
+:::
+
+::: learning-body
+Students can:
+
+-   understand that there are different theories in economics and are able to name them.
+-   can identify the foundations of the emerging field of sustainable economics.
+-   can distinguish between the problem analyses and solution approaches of sustainable economics and those of today’s dominant school of thought (neoclassical and environmental economics).
+-   are able to critically question both traditional and new economic approaches (concepts) and assess the conflicts inherent in them.
+-   can reflect on the strengths and weaknesses of different theoretical approaches, both in general and in relation to concrete problems.
+-   can analyse how alternative economic models (e.g., circular economy, post-growth economics) function and evaluate their potential and limitations for economic policy.
+-   acquire basic knowledge about measures and transformation scenarios for implementing alternative economic models beyond the focus on maximizing profits and goods production.
+:::
+:::::
+
+**Procedure**
+
+Complete the online course at your own pace. Once you feel prepared, you can complete the [**online exam**](link%20goes%20here){target="_blank"}. You have two attempts for the online exam and the time available per attempt is limited to 30 minutes.
+
+Please note that the online exam must be completed **by 30 May 2026 at the latest**.
+
+**Reading guide**
+
+::: {.callout-note collapse="true"}
+### Definitions and further readings
+:::
+
+::: {.callout-tip collapse="true"}
+### Examples and reflections
+:::
+
+::: {.callout-caution collapse="true"}
+### Exercises and links to ILIAS
+:::

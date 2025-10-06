@@ -1,0 +1,57 @@
+---
+title: "History of economic thought"
+tbl-cap-location: top
+fig-cap-location: bottom
+---
+
+::::: learning
+::: learning-header
+**Learning Outcome**
+:::
+
+::: learning-body
+Students...
+
+-   can explain what the term “social physics” means. - recognize the implications of applying social-physical principles in economics.
+:::
+:::::
+
+Walter Ötsch is a professor at the Koblenz University of Applied Sciences. As an economist and cultural historian, he researches and publishes on socio-political and economic topics such as populism and the social role of markets. Below you will find a section (chapter 4-9) of a working paper written by him. In this working paper Walter Ötsch describes how economics developed from the moral science of Adam Smith to a science with a biologically determined view of human nature under Malthus and Ricardo. In this process, scientific metaphors (clock system, balance scale, computer information) became increasingly important and economics is increasingly seen as “social physics”. This process is very illustrative for the development of modern neoclassical economics.
+
+::: {.callout-note collapse="true"}
+### Brief digression: History of Homo Economicus (optional for interested readers)
+
+The history of homo economicus dates back at least to the mention of "economicus" in Xenophon's work of the same name in the fourth century BC (@wilsonHistoryHomoEconomicus2014, p. 11). In the long period leading up to the establishment of modern economics by Adam Smith in the 18th century, various conceptions of economic man were used[\[1\]](#_ftn1) , often strongly influenced by the corresponding “Zeitgeist”. The concept of homo economicus as a rational utility maximizer is often attributed to Smith, as he recognized self-love as a central characteristic of human behavior. However, as is often the case with Smith's concepts, this common interpretation is oversimplified. In addition to self-love, Adam Smith identifies other human characteristics that are central to human behavior. Smith paints a much more complex picture of human behavior than the reduced version of modern homo economicus (Hill 2012). Smith's dense description of economic man makes it impossible to model him or work with him mathematically (@morganEconomicManModel2006a; @morganWorldModelHow2012a). This was changed over time through a conscious reduction of the description of the economic man.
+
+[\[1\]](#_ftnref1) In this text, the term *"economic man*" is used when referring to the idea of an economic agent. This is because the term "homo economicus" represents the currently dominant conception and "economic man" is used in this sense in (predominantly English) literature. The term is problematic in that it implies the exclusion of an "economic woman". However, if we consider the orientation of economics today and also throughout history, such a representation of economics is unfortunately not too far-fetched as feminist economists have argued many times.
+
+At the beginning of the 19th century, Thomas Robert Malthus and David Ricardo were already using somewhat reduced versions of economic man, which already had certain model characteristics (Morgan 1996, 2006, 2012). John Stuart Mill took this further and reduced economic man to the characteristics that were central to the economic sphere: the desire to accumulate wealth, the aversion to work, and the desire for luxury goods (@millDefinitionPoliticalEconomy1996a). Although the model of economic man underwent a reduction in Malthus, Ricardo, and Mill, the model of economic man cannot yet be used in the same way as it is today.
+
+William Stanley Jevons and Francis Edgeworth laid the foundations for this development at the end of the 19th century. Alongside Alfred Marshall, Léon Walras, and Vilfredo Pareto, they are considered important founders of neoclassical economics and were part of the **marginalist revolution** (this will be discussed in more detail in section 3 on basic concepts of economics; see the marginal principle). Like some other economists with a background in mathematics or physics, the two economists were determined to turn economics into a natural science. Neoclassical economists were convinced that the analytical and deductive method should also be the ideal approach for economics. Jevons justified the necessity of mathematics for economics simply by pointing out that it deals with quantities (@jevonsTheoryPoliticalEconomy1879, p. 4). This group of economists was guided by physics and physical concepts. Irving Fisher, another of the first neoclassical economists, explicitly used various mechanical or hydraulic concepts for his theories and applied them to economics.
+
+![Fisher's mechanical balance of exchange to illustrate the quantity theory of money (Fischer 1922,p.21)](images/Fig1_2_fisherA.png){#fig-fisherA}
+
+![Fisher uses a hydraulic model to illustrate purchasing power in a bimetallism system (Fisher 1922, p. 119)](images/Fig1_3_fisherB.png){#fig-fisherB}
+
+The idea of **equilibrium** itself is a concept borrowed from physics. This fixation on physics is also described as “physics envy”, and Mirowski shows that this orientation toward physics was a fundamental driver in the development of the history of economic thought (@mirowskiMoreHeatLight1989a, p. 396). Even well into the 20th century, the explicit analogy to physics remained in economics. A good example of this, and also of the basic toolbox of economists, is the [machine](https://www.youtube.com/watch?v=rAZavOcEnLg) built by William Phillips in the 1940s to represent the British economy. The development of homo economicus is also exemplary of the mechanistic worldview that emerged in neoclassical economics, as described by Walter Ötsch in his text. 
+
+Among other things, the complexity of economic man stood in the way of the applicability of mathematics to economics. Jevons therefore attempted to reduce this complexity. Influenced by Bentham's utilitarianism, Jevons reduced the seven criteria formulated by Bentham, which are central to the calculation of utility and thus influence human behavior, to just two, arguing that only these were economically relevant (@jevonsTheoryPoliticalEconomy1879, p. 17). This enabled Jevons to work mathematically with economic man (@reissMathematicsEconomicsSchmoller2000a). This abstraction and objectification of economics and economic man is most clearly illustrated by the concepts developed by Francis Endgeworth and later Frank Knight. Endgeworth refers to economic man as a "pleasure machine" and Knight as a "slot machine" (@morganEconomicManModel2006a). Pareto's use of his "homo economicus" also establishes an **analysis of humans from a mechanical perspective.** Pareto writes: "Just as analytical mechanics deals with material points and rigid bodies, mathematical economics considers an abstract human being, a homo economicus" (@paretoAnwendungenMathematikAuf1902, p. 1100).
+
+With the marginalist revolution, homo economicus became the focus of economics, in stark contrast to classical economists (Smith, Malthus, Ricardo, Marx), who focused primarily on class analysis. In addition, abstraction now enabled modeling and mathematical applications, which was intended to bring economics closer to the natural sciences. The rational and utility-maximizing agent became the basis of economics. The underlying **rational choice theory** was subsequently further developed and adapted (e.g., through the concept of bounded rationality) but remains fundamentally the same to this day.
+
+The history behind this development shows that it was not a natural one, but rather a conscious effort to push **a certain direction in economics**. For example, the neoclassical approach makes it impossible to identify and analyze structural problems, as the focus is on marginal changes in certain indicators (e.g., inflation or interest rates). A good example of this is the work of the winners of the 2019 Alfred Nobel Memorial Prize in Economics, Abhijit Banerjee, Esther Duflo, and Michale Kremer. In their research on poverty reduction, they use experiments (randomized control trials) to investigate the impact of specific individual measures to combat poverty. The analysis (and thus also a change) of the structural causes of these people's poverty is lost sight of here.
+
+The descriped development in economics was heavily criticized when it first emerged. Criticism of its focus, its fixation on analytical models and its strong abstraction from the real world continues to this day. In view of the weaknesses that have been increasingly exposed in neoclassical economics in the years since the 2008 financial crisis, the concerns of Alfred Marshall – himself a famous neoclassical economist – about this development are once again becoming relevant. In 1881, in a commentary on Edgeworth's "Mathematical Psychics," Marshall wondered whether Edgeworth would succeed in preventing mathematics from running away with him and driving him out of sight of the actual facts of economics (@vazquezMarshallMathematizationEconomics1995a, p. 251).
+:::
+
+::: {.callout-note collapse="true"}
+### Further reading
+
+The following further reading is recommended for students who would like to delve deeper and engage more intensively with the history of theory:\
+
+-   Ambler, Lucy, Joe Earle, und Nicola Scott. 2022. «Whitewashes History». In Reclaiming Economics for Future Generations, Manchester Capitalism Ser, Manchester: Manchester University Press, 118–60.
+
+-   McCloskey, Deirdre N. 1998. The Rhetoric of Economics. 2nd ed. Madison, Wis: University of Wisconsin Press.
+
+-   Mirowski, Philip. 1989. More Heat than Light: Economics as Social Physics, Physics as Nature’s Economics. Cam-bridge: Cambridge University Press. doi:10.1017/CBO9780511559990
+:::

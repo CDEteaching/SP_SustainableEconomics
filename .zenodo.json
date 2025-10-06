@@ -1,0 +1,23 @@
+{
+  "title": "Special Course on Introduction to Sustainable Economics",
+  "upload_type": "lesson",
+  "keywords": [
+    "Sustainable Economics",
+    "Plural Economics",
+    "Sustainability Transformations"
+  ],
+  "creators": [
+    {
+      "name": "Bader, Christoph",
+      "affiliation": "Centre for Development and Environment (CDE), University of Bern",
+      "orcid": "0000-0002-8991-353X"
+    },
+    {
+      "name": "Bezzola, Nicolà",
+      "affiliation": "Centre for Development and Environment (CDE), University of Bern"
+    },
+  ],
+  "description": "A special preparatory course on sustainable economics for students of the Master in Sustainability Transformations at the University of Bern.",
+  "license": "CC-BY-SA-4.0",
+  "access_right": "open"
+}

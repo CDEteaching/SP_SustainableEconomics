@@ -1,0 +1,16 @@
+cff-version: 1.1.0
+title: "Special course on inter- and transdisciplinary methods"
+version: 1.1.0
+license: "MIT"
+type: lesson
+abstract: "Additional attainments for the Master’s in Sustainability Transformations"
+message: "If you use this lesson, please cite it as below."
+authors:
+  - given-names: Christoph
+    family-names: Bader
+    affiliation: Centre for Development and Environment (CDE), University of Bern
+    orcid: "https://orcid.org/0000-0002-8991-353X"
+keywords:
+  - sustainability transformations
+  - interdisciplinary methods
+  - transdisciplinary methods

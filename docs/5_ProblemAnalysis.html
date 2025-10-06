@@ -1,0 +1,1032 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>5&nbsp; Problem analysis – Introduction to Sustainable Economics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./6_StrategiesFramework.html" rel="next">
+<link href="./4_PluralEcon.html" rel="prev">
+<link href="./images/" rel="icon">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-dbf4b28c387d353a501d76b2fd46fbb0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-60b716ab65d401520622fb3b811f5bf6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-dbf4b28c387d353a501d76b2fd46fbb0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./5_ProblemAnalysis.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Problem analysis</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./images/cdelogo_e.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Introduction to Sustainable Economics</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://github.com/CDEteaching/SP_IDTDmethods/blob/master/pdf/SP_SustainableEconomics.pdf" title="Course Script (PDF)" class="quarto-navigation-tool px-1" aria-label="Course Script (PDF)"><i class="bi bi-file-earmark-pdf"></i></a>
+    <a href="https://github.com/CDEteaching/SP_SustainableEconomics/issues/new" title="Report issue" class="quarto-navigation-tool px-1" aria-label="Report issue"><i class="bi bi-bug"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preface</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./1_Introduction.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./2_HistoryEconThoughts.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">History of economic thought</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./3_BasicEcon.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Basic concepts of economics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./4_PluralEcon.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Pluralist economics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./5_ProblemAnalysis.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Problem analysis</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./6_StrategiesFramework.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Strategies and economic policy paradigms for sustainability</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./7_Approaches.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Approaches of sustainable economics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#the-world-in-transition-a-polycrisis" id="toc-the-world-in-transition-a-polycrisis" class="nav-link active" data-scroll-target="#the-world-in-transition-a-polycrisis"><span class="header-section-number">5.1</span> The world in transition – a polycrisis</a></li>
+  <li><a href="#ecological-challenges" id="toc-ecological-challenges" class="nav-link" data-scroll-target="#ecological-challenges"><span class="header-section-number">5.2</span> Ecological challenges</a>
+  <ul class="collapse">
+  <li><a href="#planetary-boundaries-and-the-climate-crisis" id="toc-planetary-boundaries-and-the-climate-crisis" class="nav-link" data-scroll-target="#planetary-boundaries-and-the-climate-crisis"><span class="header-section-number">5.2.1</span> Planetary boundaries and the climate crisis</a></li>
+  </ul></li>
+  <li><a href="#social-challenges" id="toc-social-challenges" class="nav-link" data-scroll-target="#social-challenges"><span class="header-section-number">5.3</span> Social challenges</a>
+  <ul class="collapse">
+  <li><a href="#inequality-in-income-and-wealth" id="toc-inequality-in-income-and-wealth" class="nav-link" data-scroll-target="#inequality-in-income-and-wealth"><span class="header-section-number">5.3.1</span> Inequality in income and wealth</a></li>
+  <li><a href="#unequal-globalization" id="toc-unequal-globalization" class="nav-link" data-scroll-target="#unequal-globalization"><span class="header-section-number">5.3.2</span> Unequal globalization</a></li>
+  <li><a href="#social-acceleration" id="toc-social-acceleration" class="nav-link" data-scroll-target="#social-acceleration"><span class="header-section-number">5.3.3</span> Social acceleration</a></li>
+  </ul></li>
+  <li><a href="#economic-challenges" id="toc-economic-challenges" class="nav-link" data-scroll-target="#economic-challenges"><span class="header-section-number">5.4</span> Economic challenges</a>
+  <ul class="collapse">
+  <li><a href="#growth-dependency" id="toc-growth-dependency" class="nav-link" data-scroll-target="#growth-dependency"><span class="header-section-number">5.4.1</span> Growth dependency</a></li>
+  <li><a href="#financialization-and-financial-crises" id="toc-financialization-and-financial-crises" class="nav-link" data-scroll-target="#financialization-and-financial-crises"><span class="header-section-number">5.4.2</span> Financialization and financial crises</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Problem analysis</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="learning">
+<div class="learning-header">
+<p><strong>Learning Outcome</strong></p>
+</div>
+<div class="learning-body">
+<p>Students…</p>
+<ul>
+<li><p>be able to identify key ecological, social, and economic problems of the current economic and social system</p></li>
+<li><p>be able to explain at least one key problem (ecological, economic, or social) using an example</p></li>
+</ul>
+</div>
+</div>
+<section id="the-world-in-transition-a-polycrisis" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="the-world-in-transition-a-polycrisis"><span class="header-section-number">5.1</span> The world in transition – a polycrisis</h2>
+<p>The current economic system is leading to major challenges that are manifesting themselves in various crises. This current multitude of crises is recently referred to as a <strong>polycrisis</strong> (see, for example, Lawrence et al.&nbsp;2024 or this <a href="https://www.weforum.org/videos/experts-explain-adam-tooze-what-is-the-polycrisis/">explanatory video</a> by Adam Tooze) because they affect people’s working and living environments in many different ways and are intertwined. Some of the individual crises are closely linked and have common causes. Others appear to be more independent of each other and do not necessarily have the same causes. Taken together, however, all these crises culminate in this often overwhelming polycrisis. In this section, we will <strong>analyze these crises</strong> before looking at solutions for a sustainable economy. In the following, we will address the ecological, social, and economic challenges separately. However, it is important to emphasize that these dimensions are strongly interlinked and can reinforce each other. Separating these areas is intended to facilitate the introduction.</p>
+<p>As we have seen in the previous sections, the analysis itself is shaped by the perspective of the person conducting the analysis. The problem analysis can be different depending on the school of thought. For example, neoclassical economics doesn’t necessarily see rising income and wealth inequality as a problem as long as it’s caused by market mechanisms. A school of thought that includes power aspects in its analysis, such as feminist or Marxist economics, sees this inequality as a central problem for the economy and society. In line with the focus of this course, we will keep the problem analysis as broad as possible, covering all schools of thought.</p>
+</section>
+<section id="ecological-challenges" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="ecological-challenges"><span class="header-section-number">5.2</span> Ecological challenges</h2>
+<p><img src="images/Fig4_1__greatacceleration.png" id="fig-greatacc" class="img-fluid" alt="Trends in various socio-economic and Earth system parameters between 1750 and 2010. The rapid increase is called the “Great Acceleration», and its effects are seen as an indicator of the new Anthropocene era.">In the wake of the Industrial Revolution, a uniquely productive mode of production emerged, enabling a massive increase in material prosperity. At the same time, but much less noticed, there was also a massive increase in the consumption of natural resources, environmental pollution, and emissions (<span class="citation" data-cites="jarrigeContaminationEarthHistory2020">Jarrige and Le Roux (<a href="references.html#ref-jarrigeContaminationEarthHistory2020" role="doc-biblioref">2020</a>)</span>). Socio-economic growth went hand in hand with the acceleration of biophysical trends. The description of exponential growth dynamics is called “the great acceleration” (<span class="citation" data-cites="steffenTrajectoryAnthropoceneGreat2015">Steffen et al. (<a href="references.html#ref-steffenTrajectoryAnthropoceneGreat2015" role="doc-biblioref">2015</a>)</span>). The graph above shows some important biophysical and socioeconomic indicators that all began to rise with the Industrial Revolution. From the middle of the 20th century, the trend toward exponential growth becomes apparent.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Brief digression: exponential growth (optional reading for interested readers)
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>The exponential function is used to describe the size of things that are subject to accelerated growth. A crucial step is the realization that even moderate growth of, say, five percent means exponential growth, i.e., the increase becomes constantly larger (this applies, for example, to economic growth or to the number of cases during the COVID-19 pandemic). Exponential growth is difficult for us humans to understand. At the beginning, it is quite slow. This is precisely why it is often greatly underestimated. However, the growth rate then increases continuously and eventually becomes enormous. An insightful value that quickly reveals growth processes is the doubling time, which can be easily calculated in your head: 70 divided by the percentage growth per unit of time. If something grows by seven percent per year, the doubling time is ten years; at five percent, it is fourteen years; and at one percent growth, it is seventy years. The number 70 is the result of multiplying 100 (the percentage value of the doubling) by the natural logarithm of 2. It is not necessary to understand how this number is derived. The only important thing is: 70 divided by the percentage growth.</p>
+<p>The following thought experiment also helps to understand this better:<br>
+A client offers you two different fees for a 64-day assignment. Which fee do you choose?</p>
+<p>A: You receive 10,000 CHF every day.<br>
+B: You receive 1 cent on the first day and the amount is doubled on each subsequent day.</p>
+<p>Thought experiment: the Payout matrix</p>
+</div>
+</div>
+</div>
+<section id="planetary-boundaries-and-the-climate-crisis" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="planetary-boundaries-and-the-climate-crisis"><span class="header-section-number">5.2.1</span> Planetary boundaries and the climate crisis</h3>
+<p>Since the late 18th century, when British economist Thomas Robert Malthus first proposed a theory of overpopulation in his Essay on the Principle of Population, the discourse on planetary carrying capacity has persisted in certain scientific theories. Even though Malthus’ ideas have since been proven obsolete – he calculated the maximum population based on a fixed amount of food that could be produced – the basic idea has returned in the form of neo-Malthusianism. In the study “<strong>The Limits to Growth</strong>” published by the Club of Rome in 1972, a population limit was calculated using a neo-Malthusian approach based on the amount of food available, but also taking into account available resources, environmental pollution, and industrial output. Although the predicted developments have not materialized, the study still carries weight today from an ecological perspective that questions unlimited growth.</p>
+<p>The latest theoretical development in this regard is the scientific concept of <strong>planetary boundaries</strong>. Unlike previous concepts, these do not refer to a maximum population size, but to parameters derived from Earth system science. Researchers have chosen the state of the Earth system in the Holocene as their starting point. In this era, the planet had the ideal conditions for human civilizations to emerge. Deviations from this state put humanity in an uncertain territory where tipping points can be reached. Exceeding these tipping points could either halt current developments, change their direction, or accelerate them significantly. One example of this is the extinction of many large mammals at the end of the last ice age as a result of human immigration to the American continent. The concept of planetary boundaries recommends applying the precautionary principle in order to reduce potential damage to humans and the environment. The current planetary health report uses planetary boundaries as a basic framework for evaluating the health of our planet (<span class="citation" data-cites="ceasarPlanetaryHealthCheck2024">Ceasar et al. (<a href="references.html#ref-ceasarPlanetaryHealthCheck2024" role="doc-biblioref">2024</a>)</span>). In addition to the report, the recently launched <a href="https://www.planetaryhealthcheck.org/">Planetary Health Check initiative</a> offers exciting opportunities on its website to explore planetary boundaries and their development over the past 70 years.</p>
+<div id="fig-planbound" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-planbound-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/Fig4_2_PlanetaryBoundaries.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-planbound-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.1: Planetary boundaries of the various subsystems and the respective risk assessment of the current status. Green indicates the safe operating space, yellow indicates increased uncertainty. Beyond yellow indicates that the risk of fatal consequences is considered high. Source: Planetary Boundaries Science (PBScience) 2025 licensed under under CC BY 4.0
+</figcaption>
+</figure>
+</div>
+<p>The planetary boundaries refer to nine different subsystems, such as land use change and ocean acidification. An inner circle (safe operating space) and an outer circle (increased uncertainty) have been defined for each of these. Six of the nine planetary boundaries have already been exceeded. Ocean acidification is close to being exceeded, while aerosol pollution is falling slightly again. Trends in stratospheric ozone levels are pointing in slightly different directions. The degree of exceedance has in-creased for all previously identified limits (<span class="citation" data-cites="ceasarPlanetaryHealthCheck2024">Ceasar et al. (<a href="references.html#ref-ceasarPlanetaryHealthCheck2024" role="doc-biblioref">2024</a>)</span>).</p>
+<p>Within these nine subsystems, there are two so-called core boundaries: the integrity of the biosphere and climate change. These two systems combine the processes of many other subsystems and have an impact at the supraregional level. Reaching tipping points in these two systems can therefore cause the entire Earth system to enter a new state.</p>
+<p>Rapid climate change in particular poses a major challenge for humanity in the 21st century. Because the energy system, transport infrastructure, and industrial agriculture are based on fossil fuels such as oil and gas, excessive greenhouse gases such as carbon dioxide and nitrogen oxides are continuously emitted. These accumulate in the atmosphere and prevent the sun’s heat, which enters the atmosphere through solar radiation, from escaping again (greenhouse effect). As a result, glaciers and ice sheets have shrunk, oceans have warmed, and sea levels have risen over the past 30 years. Extreme temperature anomalies and precipitation events are also increasing continuously. Today, the concentration of greenhouse gases in the Earth’s atmosphere is the highest it has been in the last 800,000 years, and the global average temperature has risen by more than one degree Celsius since the Indus-trial Revolution.</p>
+<p>In order to avoid reaching climate tipping points, the Paris Agreement of 2015 set a target of limiting global warming to two degrees Celsius. The aim is to keep the average temperature rise since the Industrial Revolution “well below 2 degrees Celsius.” Even with a two-degree rise in temperature, massive biophysical changes are likely. And to achieve this goal, the energy supply must completely phase out fossil fuels by 2050. Such a transition poses major challenges for society, particularly because fossil fuels have been a key factor in the development of the current economic system and have a strong influence on its structure (see, for example, <span class="citation" data-cites="malmFossilCapitalRise2016">Malm (<a href="references.html#ref-malmFossilCapitalRise2016" role="doc-biblioref">2016</a>)</span>, <span class="citation" data-cites="huberFuelingCapitalismOil2013">Huber (<a href="references.html#ref-huberFuelingCapitalismOil2013" role="doc-biblioref">2013</a>)</span>, <span class="citation" data-cites="kallisOilEconomySystematic2017">Kallis and Sager (<a href="references.html#ref-kallisOilEconomySystematic2017" role="doc-biblioref">2017</a>)</span>).</p>
+</section>
+</section>
+<section id="social-challenges" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="social-challenges"><span class="header-section-number">5.3</span> Social challenges</h2>
+<p>Social boundaries and challenges are often less clear to define. They also depend heavily on the perspective we take. Accordingly, these aspects are often discussed more controversially than, for example, planetary boundaries. The following section highlights some aspects that are central to the social dimension of sustainable development. The explanations are not exhaustive, but are intended to highlight key challenges in this dimension.</p>
+<section id="inequality-in-income-and-wealth" class="level3" data-number="5.3.1">
+<h3 data-number="5.3.1" class="anchored" data-anchor-id="inequality-in-income-and-wealth"><span class="header-section-number">5.3.1</span> Inequality in income and wealth</h3>
+<p>At the beginning of the 21st century, global poverty dominated the discussion on global social welfare, in line with the corresponding Millennium Development Goal. Although poverty still ranks first among the UN’s 17 Sustainable Development Goals (SDGs), inequality has also made it onto the global agenda with SDG 10, “Reduce inequality.” The targets for this goal cover many forms of inequality, but here we focus on income and wealth inequality.</p>
+<p>In the middle of the last century, US economist Simon Kuznets hypothesized that in countries with increasing economic growth, income inequality would initially rise but then decline again once a certain level was reached. The so-called “Kuznets curve” emerged during the flourishing social market economies of the 1950s and 1960s, when profits were widely distributed among workers in the growing economies of the Global North and the highest incomes were taxed at highly progressive rates. With the advent of neoliberal reforms in the 1980s, income polarization became increasingly apparent in the US and, to a lesser extent, in Europe. Since then, the share of total income earned by the richest 10% has risen, while that of the bottom 50% has declined (see, for example, <a href="https://wid.world/">the World Inequality Database)</a>.</p>
+<p>An important cause of rising income inequality is <strong>the changing balance of power between labor and capital in an increasingly open global economy</strong>. While a large proportion of financial capital can now be moved around the world in a fraction of a second at one click, the mobility of workers has increased relatively little. Institutional factors such as borders, but also social motivations such as family or friendships, slow down the production factor of labor. The previously established compromise between companies and employees organized in trade unions has come under pressure in many places. As a result, the wage share (proportion of earned income) is falling in many countries today, while the share of capital income is rising.</p>
+<div id="fig-inequality" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-inequality-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/Fig4_3_inequality.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-inequality-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.2: Elephant or hockey stick? Source: Lannen et al.&nbsp;2019
+</figcaption>
+</figure>
+</div>
+<p>At the global level, a similar picture emerges between 1988 and 2008. The curve showing <strong>relative income growth (in black)</strong> indicates that incomes in the middle percentiles of global income have risen relatively sharply. This reflects the rapid emergence of middle income groups in countries such as China and Brazil. The lowest quantiles illustrate how incomes in Africa and South Asia are growing only slowly. The trough between the richest 80 and 95 percent represents large parts of North America and Europe, where middle incomes have stagnated since the neoliberal reforms mentioned above. This representation, known as the “Milanovic elephant,” thus contains information about various phenomena simultaneously. However, when looking at <strong>absolute income growth (in red)</strong> – also known as the “hockey stick” – it becomes clear how much the incomes of the richest people have increased during this period. More than half of all income growth during this period went to the richest five percent of the world’s population. The poorer half of the world’s population received only one-tenth of the income.</p>
+<p>As great as income inequality is, it pales in comparison to wealth inequality – i.e., the total value of all assets owned by a person. In his 2013 book Capital in the Twenty-First Century, French economist Thomas Piketty showed how wealth inequality has grown again since the mid-20th century. He sees the main driver behind this as being that capital income has grown faster than the real economy. As a result, rich people who can invest in capital goods have access to wealth growth that is denied to working people. Waves of political liberalization following the neoliberal shift in the 1980s have also contributed to the increase in wealth inequality. Low inheritance taxes and the privatization of state-owned companies, for example, have led to wealth being concentrated in the hands of a few rich individuals.</p>
+</section>
+<section id="unequal-globalization" class="level3" data-number="5.3.2">
+<h3 data-number="5.3.2" class="anchored" data-anchor-id="unequal-globalization"><span class="header-section-number">5.3.2</span> Unequal globalization</h3>
+<p>The economic globalization of recent decades (as well as the first wave of globalization 150 years ago) is often portrayed in a positive light, highlighting how freer international trade leads to global prosperity. However, as Milanovic noted more than 20 years ago, this obscures the <strong>other side of globalization</strong>, a side marked by exploitation and destruction (or colonialism) (Milanovic 2003). Globalization is a phenomenon of enormous magnitude and complexity and can therefore show both its beautiful and its cruel face (depending on who sees it) (Milanovic 2003). In addition to the fact that global capitalism has led to significant growth in material prosperity in many places, an increase in inequality has also been observed, as explained above. Furthermore, the economic system in many places was based on colonial and imperial violence. To this day, these structures lead to exploitation, dependencies, and unequal exchange in many places (see, for example, <span class="citation" data-cites="changKickingAwayLadder2002">Chang (<a href="references.html#ref-changKickingAwayLadder2002" role="doc-biblioref">2002</a>)</span>, <span class="citation" data-cites="anievasHowWestCame2015a">Anievas and Nişancioğlu (<a href="references.html#ref-anievasHowWestCame2015a" role="doc-biblioref">2015</a>)</span>, <span class="citation" data-cites="davisLateVictorianHolocausts2017">Davis (<a href="references.html#ref-davisLateVictorianHolocausts2017" role="doc-biblioref">2017</a>)</span>, <span class="citation" data-cites="ghoshNutmegsCurseParables2021">Ghosh (<a href="references.html#ref-ghoshNutmegsCurseParables2021" role="doc-biblioref">2021</a>)</span>, <span class="citation" data-cites="hickelDivideBriefGuide2017">Hickel (<a href="references.html#ref-hickelDivideBriefGuide2017" role="doc-biblioref">2017</a>)</span>).</p>
+<p>FIGURE</p>
+<p>Figure xy shows that high-income countries consume more resources, land, energy, and labor than they produce themselves. In this respect, there is an <strong>unequal exchange</strong> between the different country groups. In addition, the globalized world economy and the corresponding institutions are pushing many countries in the Global South into the production of raw materials (see, for example, <span class="citation" data-cites="palmaLatinAmericanEconomies2003">Palma (<a href="references.html#ref-palmaLatinAmericanEconomies2003" role="doc-biblioref">2003</a>)</span>). At the same time, many countries are active in highly specialized industries and services, where more value can be extracted. Global value chains are often controlled by companies in the Global North, which reinforces this unequal exchange and enables these companies to skim off the lion’s share of the profits and shift the costs to the Global South (see, for example, <span class="citation" data-cites="carballasmichowskiParticipationGlobalValue2021">Carballa Smichowski, Durand, and Knauss (<a href="references.html#ref-carballasmichowskiParticipationGlobalValue2021" role="doc-biblioref">2021</a>)</span>, <span class="citation" data-cites="althouseEcologicallyUnequalExchange20233">(<a href="references.html#ref-althouseEcologicallyUnequalExchange20233" role="doc-biblioref"><strong>althouseEcologicallyUnequalExchange20233?</strong></a>)</span>, <span class="citation" data-cites="durandIntellectualMonopolyGlobal2020">Durand and Milberg (<a href="references.html#ref-durandIntellectualMonopolyGlobal2020" role="doc-biblioref">2020</a>)</span>, <span class="citation" data-cites="ponteHiddenCostsEnvironmental2022">Ponte (<a href="references.html#ref-ponteHiddenCostsEnvironmental2022" role="doc-biblioref">2022</a>)</span>). Such constellations increase pressure on working conditions and favor exploitative relationships in the Global South.</p>
+<p>This is only a small and simplified excerpt from the complexity of the globalized economy. Many aspects are still insufficiently researched and controversially discussed. However, the main point here is to show that, as Milanovic argues, globalization has at least two faces. Which one it shows must be examined case by case.</p>
+</section>
+<section id="social-acceleration" class="level3" data-number="5.3.3">
+<h3 data-number="5.3.3" class="anchored" data-anchor-id="social-acceleration"><span class="header-section-number">5.3.3</span> Social acceleration</h3>
+<p>As the graphs by Steffen et al.&nbsp;(2015) show under ecological challenges, not only have earth system trends accelerated rapidly in the 20th century, but so have socio-economic trends. Hartmut Rosa describes modernization as a process of “social acceleration” (see, for example, <span class="citation" data-cites="rosaSocialAccelerationEthical2003">Rosa (<a href="references.html#ref-rosaSocialAccelerationEthical2003" role="doc-biblioref">2003</a>)</span>, Rosa 2024). According to Rosa, technological progress is accompanied by accelerating <strong>social change</strong> (e.g., changes in social relationship patterns) and an increasing <strong>pace of life.</strong> These acceleration processes are driven by economic, cultural, and structural factors and lead us to feel increasingly pressed for time and stressed, despite constant technological progress and the associated efficiency gains. For example, enormous advances in communication technologies have enabled us to communicate much more efficiently over long distances (e.g., emails instead of letters). Where we used to write a few letters at most, the number of emails sent has increased massively, and we fill the time freed up by sending additional emails, which in turn brings with it further obligations and changes relationship patterns. This has increased the possibilities and requirements for availability, for example. Technological progress is also accelerating the possibilities for experiencing parts of the world (e.g., through advances in transportation and communication). The world we can potentially experience is expanding faster than the proportion we can actually experience. In relative terms, therefore, the proportion of the world we can experience is shrinking. Such acceleration dynamics have an impact on the social well-being of individuals and societies and cannot therefore be ignored.</p>
+</section>
+</section>
+<section id="economic-challenges" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="economic-challenges"><span class="header-section-number">5.4</span> Economic challenges</h2>
+<p>The economic interrelationships and the associated problems and boundaries are also complex and less clearly visible and illustrative than, for example, planetary boundaries. Nevertheless, there are economic interrelationships that promote crises and limit the scope for action. Some of these interrelationships will be briefly outlined below. However, these explanations are by no means exhaustive.</p>
+<section id="growth-dependency" class="level3" data-number="5.4.1">
+<h3 data-number="5.4.1" class="anchored" data-anchor-id="growth-dependency"><span class="header-section-number">5.4.1</span> Growth dependency</h3>
+<p>The current capitalist economic system is structurally dependent on growth. This means that a decline in economic activity in the form of stagnation, recession, or even depression would lead to an economic crisis with far-reaching consequences for the population (e.g., unemployment, impoverishment, cuts in social services) (<span class="citation" data-cites="schmelzerDegrowthPostwachstum2019">Schmelzer and Vetter (<a href="references.html#ref-schmelzerDegrowthPostwachstum2019" role="doc-biblioref">2019</a>)</span>, p.&nbsp;26). <strong>If growth fails to materialize, the system enters a crisis.</strong> There is either growth or contraction, but nothing in between. Matthias Binswanger shows that this compulsion to grow is rooted in market competition (<span class="citation" data-cites="binswangerWachstumszwangWarumVolkswirtschaft2019">Binswanger (<a href="references.html#ref-binswangerWachstumszwangWarumVolkswirtschaft2019" role="doc-biblioref">2019</a>)</span>). Companies that do not make a profit are forced out of the market. If the average profit across the entire economy is negative, a corresponding number of companies are forced out of the market, which can lead to a downward spiral. Furthermore, the system contains many <strong>growth drivers</strong> that structurally increase growth dependency (e.g., technological progress, interest rate system, corporate forms, etc.). Many political and social institutions are also heavily dependent on growth (e.g., social security systems are largely financed by paid work, making full employment and growth central aspects of its financing). Hartmut Rosa shows, for example, that culture in the Global North also functions strongly as a driver of growth and is based on acceleration (<span class="citation" data-cites="rosaSocialAccelerationEthical2003">Rosa (<a href="references.html#ref-rosaSocialAccelerationEthical2003" role="doc-biblioref">2003</a>)</span>).</p>
+<p>The concrete effects of growth, for example on society and the environment, are also controversial in some respects and are reflected in the debate between green growth and post-growth (we will examine this debate in more detail in section 5 and 6). The key point here, however, is that dependence on growth severely limits the scope for action. Accordingly, there are many approaches that primarily seek to reduce the system’s dependence on growth.</p>
+</section>
+<section id="financialization-and-financial-crises" class="level3" data-number="5.4.2">
+<h3 data-number="5.4.2" class="anchored" data-anchor-id="financialization-and-financial-crises"><span class="header-section-number">5.4.2</span> Financialization and financial crises</h3>
+<p>Before 2008, influential representatives of economics were so confident that they believed they had found instruments for crisis-free management of market economies. It was believed that recessions and, above all, depressions could be avoided. The causes of previous crises were said to be inefficient government regulations and interventions. These had prevented the rationality of individual market participants from leading to the market equilibrium. The extensive deregulation of financial markets was thought to have created self-regulating mechanisms for economic stabilization. This made the 2008 banking crisis all the more surprising to most economists. Their belief in the rationality of markets proved to be a mistake when the bankruptcy of the prestigious Lehman Brothers bank in September 2008 led to a panic on the stock markets. The idea that financial markets function efficiently and can be deregulated accordingly (based on Eugene Fama’s market efficiency hypothesis (1970) and in the tradition of neoclassical economics) was confronted with reality. It became apparent that post-Keynesian theories, for example, which point to the possibilities of inherent instabilities in the system, are carrying important and valid insights. In particular, the work of Hyman Minsky (1992) received renewed attention, as he emphasized the inherent instability of the financial system in his <strong>financial instability hypothesis</strong>. The worst effects of the financial crises were prevented because politicians and experts had learned from the experiences of the Great Depression following the global crisis in 1929: governments and central banks immediately took over the function of stabilizing the system (ideas that go back to the theories of John Maynard Keynes).</p>
+<p>The <strong>basic economic function of the financial sector</strong> is to provide loans to finance investments (mostly by companies). The regulation of the financial sector is intended to ensure that the financial industry primarily fulfills this function in the best possible way. The strict financial market regulation that followed the stock market crash of 1929 was an essential foundation of welfare capitalism, in which activities in the real economy (production in factories, retail, large infrastructure projects, etc.) were at the center of economic life. Starting in the 1980s, financial market regulations were gradually dismantled. This strengthened financial market interests with their business model of exploiting price changes for internationally traded assets (stocks, bonds, commodities, derivatives, etc.) to generate profits. New technological possibilities were exploited, such as high-frequency trading, in which high-performance computers use pre-programmed algorithms to react to the smallest price changes within microseconds and buy or sell assets.</p>
+<p>This shift in economic dynamics and power to the financial sector is called <strong>financialization</strong>. A power complex emerged in the financial sector, consisting of central banks, commercial banks, and other financial institutions, private pension funds, and the owners of large and small fortunes associated with them. Through financialization, financial markets grow disproportionately to the real economy, which has been made possible by national deregulation measures – exactly in line with the development observed by Thomas Piketty (see chapter Social challenges).</p>
+<p>Twin Peak Paradox: Debt Crisis and Inequality</p>
+<p>In recent years, the link between income and wealth distribution and the accumulation of debt has come increasingly into focus. Rising income and wealth inequality can contribute to trade imbalances. This is the case, for example, when individual countries either stimulate the weakening of mass purchasing power with credit-financed private demand for consumption (US and UK) or attempt to compensate for low domestic demand with rising export surpluses (Germany, China, and Japan). Furthermore, increasing inequality and growing indebtedness are closely connected. Economists at the International Monetary Fund (<span class="citation" data-cites="kumhofLeveragingInequalityLong2010">Kumhof and Rancière (<a href="references.html#ref-kumhofLeveragingInequalityLong2010" role="doc-biblioref">2010</a>)</span>), for example, argue that rising inequality leads to increasing borrowing among the lower and middle classes to sustain their consumption levels, while the richest individuals have limited capacity to spend it on consumption (e.g.&nbsp;you can have only so many yachts). Therefore, they invest their money in the financial sector, which gives out loans to the lower and middle classes. Furthermore, this contributes to the dynamics of financialization outlined above. In this <a href="https://youtu.be/QHL4GBu-pQQ">video</a>, Yanis Varoufakis describes the current situation of high debt and great inequality as a twin peak paradox.</p>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-anievasHowWestCame2015a" class="csl-entry" role="listitem">
+Anievas, Alexander, and Kerem Nişancioğlu. 2015. <em>How the <span>West Came</span> to <span>Rule</span>: <span>The Geopolitical Origins</span> of <span>Capitalism</span></em>. London: Pluto Press. <a href="https://doi.org/10.2307/j.ctt183pb6f">https://doi.org/10.2307/j.ctt183pb6f</a>.
+</div>
+<div id="ref-binswangerWachstumszwangWarumVolkswirtschaft2019" class="csl-entry" role="listitem">
+Binswanger, Mathias. 2019. <em>Der Wachstumszwang: warum die Volkswirtschaft immer weiterwachsen muss, selbst wenn wir genug haben</em>. Weinheim: Wiley-VCH Verlag GmbH &amp; Co. KGaA.
+</div>
+<div id="ref-carballasmichowskiParticipationGlobalValue2021" class="csl-entry" role="listitem">
+Carballa Smichowski, Bruno, Cédric Durand, and Steven Knauss. 2021. <span>“Participation in Global Value Chains and Varieties of Development Patterns.”</span> <em>Cambridge Journal of Economics</em> 45 (2): 271–94. <a href="https://doi.org/10.1093/cje/beaa046">https://doi.org/10.1093/cje/beaa046</a>.
+</div>
+<div id="ref-ceasarPlanetaryHealthCheck2024" class="csl-entry" role="listitem">
+Ceasar, L., B. Sakschweski, L. S. Andersen, T. Beringer, J. Braun, D. Dennis, D. Gerten, et al. 2024. <span>“Planetary <span>Health Check Report</span> 2024.”</span> Potsdam: Potsdam Institute for Climate Impact Research.
+</div>
+<div id="ref-changKickingAwayLadder2002" class="csl-entry" role="listitem">
+Chang, Ha-Joon. 2002. <em>Kicking <span>Away</span> the <span>Ladder</span>: <span>Development Strategy</span> in <span>Historical Perspective</span></em>. 1st ed. Anthem <span>Studies</span> in <span>Development</span> and <span>Globalization</span>. London: Anthem Press.
+</div>
+<div id="ref-davisLateVictorianHolocausts2017" class="csl-entry" role="listitem">
+Davis, Mike. 2017. <em>Late <span>Victorian</span> Holocausts: <span>El Niño</span> Famines and the Making of the <span>Third World</span></em>. Paperback edition. London New York: Verso.
+</div>
+<div id="ref-durandIntellectualMonopolyGlobal2020" class="csl-entry" role="listitem">
+Durand, Cédric, and Wiliiam Milberg. 2020. <span>“Intellectual Monopoly in Global Value Chains.”</span> <em>Review of International Political Economy</em> 27 (2): 404–29. <a href="https://doi.org/10.1080/09692290.2019.1660703">https://doi.org/10.1080/09692290.2019.1660703</a>.
+</div>
+<div id="ref-ghoshNutmegsCurseParables2021" class="csl-entry" role="listitem">
+Ghosh, Amitav. 2021. <em>The Nutmeg’s Curse: Parables for a Planet in Crisis</em>. Chicago: University of Chicago Press.
+</div>
+<div id="ref-hickelDivideBriefGuide2017" class="csl-entry" role="listitem">
+Hickel, Jason. 2017. <em>The <span>Divide</span>: <span>A Brief Guide</span> to <span>Global Inequality</span> and <span>Its Solutions</span></em>. London: William Heinemann.
+</div>
+<div id="ref-huberFuelingCapitalismOil2013" class="csl-entry" role="listitem">
+Huber, Matt. 2013. <span>“Fueling <span>Capitalism</span>: <span>Oil</span>, the <span>Regulation Approach</span>, and the <span>Ecology</span> of <span>Capital</span>.”</span> <em>Economic Geography</em> 89 (2): 171–94. <a href="https://doi.org/10.1111/ecge.12006">https://doi.org/10.1111/ecge.12006</a>.
+</div>
+<div id="ref-jarrigeContaminationEarthHistory2020" class="csl-entry" role="listitem">
+Jarrige, François, and Thomas Le Roux. 2020. <em>The <span>Contamination</span> of the <span>Earth</span>: <span>A History</span> of <span>Pollutions</span> in the <span>Industrial Age</span></em>. Translated by Janice Egan and Michael Egan. History for a Sustainable Future. Cambridge, Massachusetts London: The MIT Press.
+</div>
+<div id="ref-kallisOilEconomySystematic2017" class="csl-entry" role="listitem">
+Kallis, Giorgos, and Jalel Sager. 2017. <span>“Oil and the Economy: <span>A</span> Systematic Review of the Literature for Ecological Economists.”</span> <em>Ecological Economics</em> 131 (January): 561–71. <a href="https://doi.org/10.1016/j.ecolecon.2016.08.011">https://doi.org/10.1016/j.ecolecon.2016.08.011</a>.
+</div>
+<div id="ref-kumhofLeveragingInequalityLong2010" class="csl-entry" role="listitem">
+Kumhof, Michael, and Romain Rancière. 2010. <span>“Leveraging <span>Inequality</span>: <span>Long</span> Periods of Unequal Incomes Spur Borrowing from the Rich, Increasing the Risk of Major Economic Crises.”</span> <em>Finance &amp; Development</em>, December 2010. <a href="https://www.imf.org/external/pubs/ft/fandd/2010/12/Kumhof.htm">https://www.imf.org/external/pubs/ft/fandd/2010/12/Kumhof.htm</a>.
+</div>
+<div id="ref-malmFossilCapitalRise2016" class="csl-entry" role="listitem">
+Malm, Andreas. 2016. <em>Fossil Capital: The Rise of Steam-Power and the Roots of Global Warming</em>. London: Verso.
+</div>
+<div id="ref-palmaLatinAmericanEconomies2003" class="csl-entry" role="listitem">
+Palma, Jose Gabriel. 2003. <span>“The <span>Latin American Economies During</span> the <span>Second Half</span> of the <span>Twentieth Century</span> - from the <span>Age</span> Og ’<span>ISI</span>’ to the <span>Age</span> of ’<span>The End</span> of <span>History</span>’.”</span> In <em>Rethinking <span>Development Economics</span></em>, edited by Ha-Joon Chang, 125–52. Anthem <span>Frontiers</span> of <span>Global Political Economy</span> and <span>Development</span>. London: Anthem Press.
+</div>
+<div id="ref-ponteHiddenCostsEnvironmental2022" class="csl-entry" role="listitem">
+Ponte, Stefano. 2022. <span>“The Hidden Costs of Environmental Upgrading in Global Value Chains.”</span> <em>Review of International Political Economy</em> 29 (3): 818–43. <a href="https://doi.org/10.1080/09692290.2020.1816199">https://doi.org/10.1080/09692290.2020.1816199</a>.
+</div>
+<div id="ref-rosaSocialAccelerationEthical2003" class="csl-entry" role="listitem">
+Rosa, Hartmut. 2003. <span>“Social <span>Acceleration</span>: <span>Ethical</span> and <span>Political Consequences</span> of a <span>Desynchronized High</span>–<span>Speed Society</span>.”</span> <em>Constellations</em> 10 (1): 3–33. <a href="https://doi.org/10.1111/1467-8675.00309">https://doi.org/10.1111/1467-8675.00309</a>.
+</div>
+<div id="ref-schmelzerDegrowthPostwachstum2019" class="csl-entry" role="listitem">
+Schmelzer, Matthias, and Andrea Vetter. 2019. <em>Degrowth/<span>Postwachstum</span></em>. Hamburg: Junius.
+</div>
+<div id="ref-steffenTrajectoryAnthropoceneGreat2015" class="csl-entry" role="listitem">
+Steffen, Will, Wendy Broadgate, Lisa Deutsch, Owen Gaffney, and Cornelia Ludwig. 2015. <span>“The Trajectory of the <span>Anthropocene</span>: <span>The Great Acceleration</span>.”</span> <em>The Anthropocene Review</em> 2 (1): 81–98. <a href="https://doi.org/10.1177/2053019614564785">https://doi.org/10.1177/2053019614564785</a>.
+</div>
+</div>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/cdeteaching\.github\.io\/SP_SustainableEconomics\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./4_PluralEcon.html" class="pagination-link" aria-label="Pluralist economics">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Pluralist economics</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./6_StrategiesFramework.html" class="pagination-link" aria-label="Strategies and economic policy paradigms for sustainability">
+        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Strategies and economic policy paradigms for sustainability</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>“This a product of <a href="www.cde.unibe.ch/"><img src=".\images/cdelogo_e.png" class="img-fluid" style="width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;"></a></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>This book was built with <a href="https://quarto.org/">Quarto</a>. This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC-BY-NC-ND 4.0 Int License</a></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

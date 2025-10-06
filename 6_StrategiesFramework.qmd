@@ -1,0 +1,183 @@
+---
+title: "Strategies and economic policy paradigms for sustainability"
+tbl-cap-location: top
+fig-cap-location: bottom
+---
+
+After having explored ecological, social and economic challenges, this module turns to strategies and frameworks to address these challenges. From these more concrete approaches and policies will be derived which will be explored in section 7.
+
+::::: learning
+::: learning-header
+**Learning Outcome**
+:::
+
+::: learning-body
+By the end of the module, students…
+
+-   know the three strategies for sustainability and be able to explain them using examples
+
+-   know three economic policy frameworks and are able to describe them
+
+-   are able to explain their own position on the importance and weighting of the different strategies and guiding frameworks for the implementation of sustainable development
+:::
+:::::
+
+## Strategies for sustainability
+
+In view of the ecological limits of our planet, there is broad consensus at the scientific and political level in most highly industrialized countries that planetary boundaries must be respected in the long term. With the 1.5-degree and 2-degree targets, a central climate policy goal was also established internationally in the [Paris Agreement](https://www.fedlex.admin.ch/eli/fga/2017/81/de), which Switzerland co-signed. With regard to economic and social challenges, the global community has also committed itself to the[2030 Agenda](https://sdgs.un.org/2030agenda), and Switzerland specifically articulated the goals in [the 2030 Sustainable Development Strategy](https://www.are.admin.ch/are/de/home/nachhaltige-entwicklung/strategie/sne.html). These goals require a fundamental transformation of our economic system within a few decades. But how exactly should these goals be achieved? There are three basic strategies for implementing sustainable development that are currently being discussed: **efficiency strategy, consistency strategy, and sufficiency strategy.** All approaches to sustainable development are based on these three basic strategies, but they differ in how they align the interaction between the three strategies and in how they prioritize these strategies.
+
+Various strategies are being discussed for implementing sustainable development: All three strategies must work together to achieve sustainability goals.
+
+![The three sustainability strategies; our own representation](images/Fig5_1__NEstrategies.jpg){#fig-SDstrategies}
+
+### Efficiency strategy
+
+The efficiency strategy aims to use fewer resources (raw materials and energy) than before in the manufacture of products or the provision of services without reducing the quantity produced. This includes minimizing material use (material intensity) and energy use (energy intensity) as well as emissions of harmful substances such as CO2. This concept is often referred to as **eco-efficiency** and is considered promising in business and society because it can reduce costs, resource consumption, and environmental pollution. The efficiency strategy focuses on the production side, where change is primarily sought through technological advances. Proponents of this approach believe that it is possible to double prosperity while halving the consumption of natural resources (Weizsäcker et al. 1997). Critics of the efficiency strategy are less optimistic, however, and warn against overestimating its impact on sustainable economic activity. They point to so-called *rebound effects,* which can lead to the gains from efficiency improvements being reduced or even offset (Paech 2012; Santarius 2014).
+
+::: {.callout-tip collapse="true"}
+### Examples of efficiency strategies
+
+Energy-efficient lighting: Replacing conventional light bulbs with energy-efficient LED lamps re-duces electricity consumption and helps to lower energy requirements.
+
+Fuel-efficient vehicles: The development of hybrid or electric vehicles with improved fuel con-sumption reduces fuel demand and emissions from traffic.
+
+Efficient building technology: Installing smart heating, ventilation, and air conditioning systems in buildings helps reduce energy consumption for heating and cooling.
+
+Efficient water use: The use of water-saving systems in households and industrial companies reduces water consumption and minimizes waste.
+:::
+
+### Consistency strategy
+
+While the efficiency strategy is quantity-oriented – less resource consumption with more output – the consistency strategy strives for compatibility between nature and technology, with the goal of reusing resources instead of consuming them only once. This implies replacing materials, products, and technologies that are often based on fossil resources with those that are compatible with natural material cycles and run in harmony with natural processes (Pufé 2017). This is often referred to as **eco-effectiveness** and follows the "cradle to cradle" principle, whereby products go from "cradle to cradle" instead of "cradle to grave." The idea behind this is that in intelligent systems, there is no waste, only products. This can be achieved in two ways: materials can either be biodegradable, as in shampoo without synthetic ingredients, or they can be designed as "technical nutrients" that remain in the technical cycle. This means that a product that has reached the end of its useful life does not end up in the trash, but is transferred to the next cycle of use, for example by being upcycled. For example, a computer case could be reused over and over again or converted into a shelving system. The consistency strategy also focuses on the production side. This strategy is expected to offer greater problem-solving potential, a wider reach, and more profound changes than the efficiency strategy.
+
+![Schematic representation of the circular economy. Source: BAFU](images/Fig5_2_CircularEconomy.png){#fig-circecon}Nevertheless, material cycles in the economy are not feasible without mass and energy losses, so absolute consistency remains an unattainable ideal. Even 100% biodegradable products consume energy in their manufacture. Nevertheless, consistency is seen as an impetus for industry to strive for this ideal and to reduce both resource consumption and emissions as far as possible.
+
+::: {.callout-tip collapse="true"}
+### Examples of consistency strategies
+
+Renewable energy systems: The transition from fossil fuels to renewable energy sources such as solar, wind, and hydro power ensures that energy production is in harmony with the natural rhythms and cycles of the environment.
+
+Recyclable electronics: Electronic devices are designed to be easy to repair, upgrade, and recycle in order to minimize resource consumption and environmental impact.
+
+Sustainable construction: Buildings are constructed using sustainable materials that have a low environmental impact and can be reused or recycled at the end of their useful life.
+:::
+
+### Sufficiency strategy
+
+"Sufficiency" questions the extent of what is needed for a good life and aims to reduce resource and energy consumption by lowering demand for resource-intensive goods and services. Sufficiency is often translated as contentment, frugality or moderation. It takes a critical look at the new needs created by technology and advertising in relation to limited natural resources. Sufficiency promotes an understanding of not chasing every newly created need and to satisfy needs without commercial consumption. Unlike efficiency and consistency, sufficiency focuses on consumption, but not exclusively: sufficiency can be practiced to varying degrees and at different levels, from minor behavioural changes (sharing instead of buying) to significant lifestyle changes (giving up air travel). Although it starts at the individual level, sufficiency can be applied at various levels, including businesses (sufficiency-oriented product design) and governments (sufficiency policy). Sufficiency therefore asks about the right amount: How much do we need for a good life? And what do we not need? The sufficiency strategy is the subject of passionate and intense debate (Sedláček 2012).
+
+Critics consider the sufficiency strategy to be limited in terms of its savings potential and socio-cultural resonance. They doubt that it can gain broad acceptance in the population. Proponents, on the other hand, believe that the sufficiency strategy has an essential place in sustainability policy, especially where efficiency and consistency strategies reach their limits.
+
+::: {.callout-tip collapse="true"}
+### Examples of sufficiency strategies
+
+Sharing and communal use: Platforms and initiatives for sharing items, tools, or vehicles enable resources to be used more efficiently and reduce the number of products manufactured.
+
+Plant-based diet: Switching to a predominantly plant-based diet reduces the demand for re-sources such as water and land compared to meat production.
+
+Shorter working hours: Reducing working hours can lead to lower resource use, as less energy and materials are needed to produce goods and services.
+
+Local consumption: Supporting local producers and markets helps reduce transport distances and emissions.
+:::
+
+## Economic policy paradigms
+
+In order to achieve the sustainability goals, measures based on the three sustainability strategies must be implemented. How the goals are achieved, i.e., which combination of strategies is pursued, and which measures are implemented, is largely determined by the underlying mindsets and worldviews. However, these mindsets do not exist in isolation in the economic policy discourse. Rather, many economic policy approaches are simultaneously shaped by different thought styles. Following Novy et al. (2023), we distinguish between three basic economic policy paradigms that emerge from the influences of different thought styles (see Figure 29) and their scientific concepts: the liberal market paradigm, the welfare capitalist paradigm, and the post-growth paradigm. The economic policy paradigms and their understanding of sustainability, which underlie the different approaches, determine to a considerable extent their orientation and their mix of strategies and policies.
+
+### Liberal market liberal paradigm
+
+The main goal of the liberal market paradigm is to protect individual freedoms as much as possible and minimize government intervention, especially in the form of bans and market restrictions. This framework mainly promotes negative freedoms and relies on a comprehensive market order that protects and enforces property and contract rights as well as competition. The idea is that almost all areas of the economy, including basic services, should be organized according to market principles. This is intended to enable both the maximum development of individual freedoms and the efficient use of limited resources.
+
+The liberal market paradigm argues that market regulation is more efficient than state intervention, even in areas such as environmental protection or the setting of minimum wages. Although it is recognized that in a complex, interconnected society, completely free markets, global trade, companies, and consumers can never be fully realized, the idea of self-regulating markets serves as a guideline for economic policy decisions. Such a market order should ensure that companies and consumers can make individual decisions as freely and independently as possible. This requires not only state enforcement of a liberal market order, but also technology neutrality.
+
+The goal of the liberal market paradigm is thus to protect individual freedoms while ensuring that markets remain as free as possible from state intervention and neutral with regard to technology.
+
+### Welfare capitalist paradigm
+
+The main goal of the welfare capitalist paradigm is to ensure and protect material prosperity. This approach attempts to combine competitive economic measures with social justice and, in green variants, with environmental protection. Based on the successes of the 20th century, it is argued that promoting the capitalist economic system is compatible with a good life for all.
+
+This has been achieved in part through the establishment of welfare states, which have largely solved social problems such as poverty and unemployment by providing basic services—at least in many wealthy countries. The hope is that a similar approach can also help to overcome the ecological challenges. The goal is to ensure a secure material standard of living by increasing production and incomes while reducing resource consumption and emissions.
+
+Similar to the liberal market paradigm, green growth also plays a central role in the welfare capitalist approach. This is intended to enable win-win situations and avoid social tensions.
+
+### The post-growth paradigm
+
+The main goal of the post-growth paradigm is a fulfilling life in a sustainable society that exists in harmony with nature. To achieve this, it is necessary to overcome the compulsion for constant economic growth in the capitalist system. The aim is to replace the existing exploitative relationship between humans and nature with one in which humans are seen as part of an ecological system.
+
+In order to preserve the foundations of life, the post-growth paradigm strives for an economy that remains in a stable state (steady-state economy) or can function independently of economic growth and ensures the basic provision of human needs. A central principle here is sufficiency, which means finding the right amount of resource use. This may mean using fewer resources in some areas to reduce environmental impacts.
+
+The post-growth paradigm recognizes that not all economic sectors need to grow and that contraction in some areas does not necessarily represent a loss. The role of the state in this approach is controversial, as state actors often maintain unsustainable conditions, but are at the same time important actors to establish sustainable frameworks. The emphasis is more on global cooperation and a stronger role for civil society in reshaping society "from below."
+
+These economic policy paradigm – market liberalism, welfare capitalism, and post-growth – represent different views on how society should respond to pressing issues in the field of environmental protection and sustainability. They reflect how policymakers and societies at the global level are trying to stay within planetary boundaries and achieve climate goals. Since these guiding frameworks are based on scientific concepts of different schools of thought, they are strongly influenced by scientific debate. On the other hand, these models also shape scientific debate, since economics is not free from normative influences, as we discussed in section 1.
+
+In the next section, we will explore various approaches to sustainable economics. We will draw on these guiding paradigm, focusing in particular on the post-growth paradigm and, to a lesser extent, on green growth approaches within the welfare capitalist paradigm. In line with the different influences of these schools of thought on the frameworks, we will also have to consider the various economic theories and approaches of pluralist economics. These theories offer different perspectives on the challenges and goals of sustainable economics and shape the three paradigms. Below is an overview of how these schools of thought influence the three paradigms– market liberalism, welfare capitalism, and post-growth. This overview should enable us to better understand the many facets of the sustainability debate and develop approaches that can meet the requirements of a more sustainable future. However, these classifications are not set in stone and may vary depending on the specific point of view and context. Some schools of thought may also fall completely outside the three guiding paradigms. In pluralist economics, there are a variety of approaches and theories that can shed light on different aspects of economic and societal design. Combining and integrating these different perspectives can lead to a more comprehensive understanding and approach to promoting sustainability.
+
+![Our own representation based on the illustration of Exploring Economics](images/Fig5_3_pluralEconParadigms.png){#fig-pluraleconparad}
+
+## Green growth and post-growth
+
+The two central scientific concepts that shape the debates on sustainable economics as polar positions and can be located in these approaches: green growth and post-growth^[\[1\]](#_ftn1)^ .
+
+**Green growth**, as proposed  by the OECD (2011) and the World Bank (2012), is an approach that sees green economic growth as a solution to ecological challenges. This approach pursues the idea that it is possible to grow the economy while minimizing environmental impacts. In our view, this approach can be derived primarily from the welfare capitalist framework and, to a lesser extent, from the liberal market framework. 
+
+This contrasts with **post-growth** approaches advocated by researchers such as Jackson (2009), Seidl and Zahrnt (2010), van den Bergh (2011) and D'Alisa et al. (2016), which are derived from the post-growth model. These approaches argue that economic growth, especially as measured by gross domestic product (GDP), and the associated compulsion to grow are the root causes of ecological problems. They point out that numerous analyses of the current economic and social system show that economic growth is unlikely to be a solution in the current system. This view is based on the recognition that modern capitalist democracies often depend on permanent increases in profits and productivity in order to stabilize themselves (Binswanger 2019; Lessenich 2020; Rosa 2016), as we have explained under economic challenges.
+
+The underlying disagreement between these polar positions lies in one of the most central questions of sustainable economics: Should we focus on green economic growth to achieve ecological goals, or is it necessary to rethink the existing economic system and its focus on growth? In the following section, we will explore these concepts and views in greater depth in order to develop a better understanding of the challenges and opportunities in the field of environmental and sustainability policy.
+
+[\[1\]](#_ftnref1) The term degrowth is also frequently used. Although the two terms are not entirely synonymous, they largely overlap. For the sake of simplicity, we will therefore use the term post-growth in each case. In our view, the strength of the term post-growth lies primarily in the fact that it does not emphasize a possible contraction of the economy, but rather the necessary independence from growth.
+
+![adapted from Petschow et al. (2018: 22)](images/Fig5_4_SustEconomics.png){#fig-sustecon}
+
+::: {.callout-note collapse="true"}
+\### Further reading
+
+If you are interested, you can watch the statement by Paolo Gentiloni (European Commissioner for Economy) at the Beyond Growth conference to illustrate the green growth position. The post-growth position is well illustrated in a contribution by Timothée Parrique at the same conference.
+:::
+
+## Weak and strong sustainability
+
+The two polar positions, green growth and post-growth, refer to different definitions of sustainability. The concept of sustainability can be classified on a continuum from weak to strong. In this context, the extreme positions lead to one-dimensional interpretations that fail to recognize the multidimensional character of the sustainability model.
+
+![adapted from Petschow et al. (2018: 22)](images/Fig5_5_StrongWeakSust.png){#fig-strongweakSust}
+
+## Weak sustainability – position of neoclassical economics^[\[1\]](#_ftn1)^
+
+Weak sustainability represents a rather "lenient" requirement for sustainability. For proponents of this view, an action is sustainable if it offers an overall benefit to the system as a whole or at least does not reduce its quality. Weak sustainability can therefore be seen as a kind of basic requirement for sustainability, with the aim of maintaining a certain level of well-being/quality of life or ensuring equality. The concept of weak sustainability “assumes the extensive and, at least in principle, unlimited \[...\] substitutability of all types of capital" (Ott and Döring 2004: 41, own translation) and is thus based on the premise of neoclassical economics. For example, natural capital can be replaced by other types of capital; the loss of biodiversity could be replaced by technological capital. It is assumed that it is ultimately irrelevant in what physical form the inherited capital stock is passed on to the next generation – the only thing that matters is that the total capital and total utility, and thus the overall level of welfare, are maintained. The concept of weak sustainability ties in with neoclassical utility theory, according to which it is irrelevant how utility is generated. Environmental economics, which emerged from neoclassical economics, fundamentally draws on the concept of weak sustainability.
+
+Within the framework of the concept of weak sustainability, a measure can still be considered sustainable even if it is at the expense of natural capital. This is the case, for example, if the loss is offset by an increase in human or physical capital. The extraction of raw materials such as coal or excessive crude oil production could therefore be perfectly justifiable. This understanding tends to recognize the strong role of technological progress in sustainable development. Evaluating measures based on such a concept is inherently complex, as it always involves many assumptions. Apart from fundamental questions about sustainability such as "What is a good life? How do you measure the level of prosperity?", the value of different types of capital must also be determined. This is because an important prerequisite for substitutability is that the different types of capital are comparable, which in practice means that everything must be assigned a monetary value. Even where there is no market price, a monetary value must therefore be determined. As early as 1974, William Kapp doubted whether this monetary valuation could reflect the substantial social value that is actually at stake (Kapp 1974). In addition, fundamental and normative questions arise when it comes to operationalization. Which factors are taken into account? What is the value of natural beauty? What is the value of a rare bird or a whale? This short [video](https://www.youtube.com/watch?v=MSxIBYOMQOU) gives some insight into these discussions.
+
+Criticism of the concept of weak sustainability therefore includes questions about the unlimited substitutability of natural resources by reproducible capital. There are also doubts as to whether more goods can compensate for the loss of environmental quality. Finally, there is uncertainty about the development of resources and critical thresholds. The consequence of this criticism is the concept of strong sustainability.
+
+**Strong sustainability – the position of ecological economics**
+
+In contrast to weak sustainability, the position of strong sustainability considers the value of natural capital to be irreplaceable. Characteristic of the proponents of strong sustainability is that their optimism regarding individual substitution possibilities is much lower. They therefore emphasize the importance of an intact natural capital stock. They consider it inconceivable that the natural capital stock could be drastically reduced in favor of another type of capital. Human-produced capital and natural capital are only interchangeable to a limited extent. Proponents of strong sustainability thus take an ecocentric view, in contrast to the anthropocentric view of weak sustainability.
+
+In contrast to the confidence of neoclassical economists regarding substitutability, proponents of strong sustainability do not believe in solutions based on aftercare and reaction, but rather focus on prevention and anticipation. For example, the increase in the ozone hole can only be compensated to a limited extent by measures such as sunscreen, protective clothing, and medical aftercare. Even technological approaches such as geoengineering are viewed critically, as they treat the problem superficially rather than addressing its causes. Geoengineering refers to technical interventions in geochemical or biogeochemical cycles, for example to slow down climate change or ocean acidification.
+
+Until now, reducing environmental pollution has mainly focused on end-of-pipe technologies, such as catalytic converters in cars. At the same time, long-term environmental problems have been pushed into the background by such measures as long as their effects have not been clearly perceived, as in the case of climate change or biodiversity loss. This seemingly environmental protection is explained by the concept of **externalization**, in which environmental and social costs are shifted to external parties, as described, for example, by Lessenich (2020). This means that only economic and business costs are taken into account in pricing, partly because these are easier to quantify, while the social and environmental costs of providing goods and services are omitted or shifted to external parties. This leads to distortions in market prices.
+
+[\[1\]](#_ftnref1) Excerpt from Pufé 2017, starting on page 105, and <https://thesustainablepeople.com/starke-und-schwache-nachhaltigkeit/>
+
++----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| weak sustainability                                                              | strong sustainability                                                                               |
++==================================================================================+=====================================================================================================+
+| -   human-centered perspective (anthropo-centrism)                               | -   nature-centered perspective (ecocentrism)                                                       |
+|                                                                                  |                                                                                                     |
+| -   based on neoclassical economics                                              | -   based on ecological economics                                                                   |
+|                                                                                  |                                                                                                     |
+| -   assumes harmony between growth and the environment                           | -   conflict between growth and environment                                                         |
+|                                                                                  |                                                                                                     |
+| -   substitutability of natural capital                                          | -   no substitutability of natural capital                                                          |
+|                                                                                  |                                                                                                     |
+| -   growth paradigm, growth is central                                           | -   impossibility of infinite growth                                                                |
+|                                                                                  |                                                                                                     |
+| -   optimistic about the potential for continued growth                          | -   sceptical about continued growth                                                                |
+|                                                                                  |                                                                                                     |
+| strategy: rely on technological efficiency, economic growth and market mechanism | strategy: stop/limit growth, ethical restraint and efficiency at both personal and political levels |
+|                                                                                  |                                                                                                     |
+| conventional cost-benefit analysis as primary decision-making tool               | sees traditional cost-benefit analysis as inadequate for sustainability issues                      |
++----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+
+: Comparison of weak and strong sustainability (Pufé 2017:109) {#tbl-weakstrongsust}
+
+As already mentioned at the beginning, the polar positions of sustainable economics, green growth, and post-growth are based on different understandings of sustainability, are supported by scientific concepts of different schools of thought and are accordingly oriented toward different economic policy frameworks. In the next section, we will take a closer look at the range of approaches and their respective focuses, concentrating on the post-growth framework. The reason for focusing on post-growth is that we believe this economic policy framework makes a key contribution to a sustainable economy.

@@ -1,0 +1,76 @@
+---
+title: "Approaches of sustainable economics"
+tbl-cap-location: top
+fig-cap-location: bottom
+---
+
+As outlined in the preceding section, the debates around sustainable economics are shaped by different guiding frameworks, which are influenced by various theoretical perspectives within pluralist economics and differ in their understanding of sustainability and their respective viewpoints. Most approaches within sustainable economics can be assigned to the post-growth framework. From the welfare capitalist framework, approaches such as green growth and the circular economy can be derived. The liberal market framework lies largely outside the debate of sustainable economics, although certain aspects of green growth are discussed, such as the internalization of external effects.
+
+In the following, we will engage more deeply with specific approaches. Since the debates within sustainable economics are very diverse, no definitive or fixed classification of the approaches can be made. Nevertheless, we have distinguished between several approaches here. While there are many overlaps among them, in our view they can still be differentiated based on their distinct emphases. This classification is intended to serve as an orientation. For the approaches within the post-growth framework, we follow Schmelzer and Vetter (2023).
+
+::::: learning
+::: learning-header
+**Learning Outcome**
+:::
+
+::: learning-body
+By the end of the module, students…
+
+-   are able to distinguish between the main approaches of sustainable economics.
+-   know the key characteristics, solutions, and concepts of one approach and are able to explain it using examples.
+:::
+:::::
+
+## Approaches of sustainable economics
+
+Below you will find a list of different approaches within sustainable economics and corresponding material for each approach. Please choose two of the following approaches. Work through the material for each approach. [On Mural](https://app.mural.co/t/cde6674/m/cde6674/1759743384617/4b38e44dea858b12fbb1cca4bc38b88505fed944?sender=ua98dc58f8437b9b336bb4662){target="_blank"} you will find question regarding the approaches. Try to answer the questions for the approaches you have chosen. This way you can gain an overview of the different approaches based on the work of other students. The lecturers will regularly check the Mural board and delete statements that are strongly incorrect or misleading, however, the lecturers will not correct every answer provided by the students.
+
+### Welfare capitalist paradigm
+
+::: panel-tabset
+#### Green Growth
+
+[The text by Petschow et al.](https://ilias.unibe.ch/go/file/3512925/download "Only accessible through ILIAS UniBE") serves as an introduction and provides an overview of Green Growth. [This video snippet](https://tobira.unibe.ch/!v/B96EQrQRZHm) is from a contribution by Michael Jacobs for the panel “Focus Panel 1 – Which Prosperous Future? Confronting Narratives of Growth” at the Beyond Growth Conference 2023. If interested, [the full panel discussion](https://www.youtube.com/watch?v=KqtlQcU3PaQ) can be watched.
+
+#### Circular Economy
+
+This video serves as a brief introduction. [The text by Lazarevic and Brandão (2020)](https://ilias.unibe.ch/go/file/3512927/download "Only accessible through ILIAS UniBE") provides a more in-depth introduction to the topic. If you are interested, the text by [Bocken et al. (2022)](https://ilias.unibe.ch/go/file/3512928/download) can be read as an additional resource.
+
+{{< video https://www.youtube.com/watch?v=NBEvJwTxs4w >}}
+:::
+
+### Post-growth paradigm
+
+::: panel-tabset
+#### Growth-independent institutions
+
+[The paper by Corlet Walker et al. (2024)](https://ilias.unibe.ch/go/file/3512933/download "Only accessible through ILIAS UniBE") presents an approach to the question of the UK welfare system. And the following video presents a further discussion on making the UK welfare system more growth independent.
+
+{{< video https://www.youtube.com/watch?v=gK4iuguEDgQ >}}
+
+#### Sufficiency-oriented way of living
+
+This video by Niko Paech, prominent proponent of this approach, will provide an introduction into the main ideas of this approach.
+
+{{< video https://www.youtube.com/watch?v=rS3ldLZ_kYE >}}
+
+[The text by Juliet Schor (2008)](https://ilias.unibe.ch/go/file/3512937/download "Only accessible through ILIAS UniBE"), a pioneer in the research on consumerism in the US, provides a further discussion of this approach. The text is relatively old, however, provides a good overview of the central issues. However, especially with regard to work time reduction, there as been a lot of new research since then, you are encouraged to explore if you are interested in.
+
+{{< video https://www.youtube.com/watch?v=H3eSFIu3D0E >}}
+
+#### Collective action
+
+[The paper by David Bollier (2015)](https://ilias.unibe.ch/go/file/3512934/download "Only accessible through ILIAS UniBE") gives a good sense of the core idea of such approaches and presents a good overview. This video on commoning the city provides and discusses more concrete ideas of how this approach might look like:
+
+{{< video https://www.youtube.com/watch?v=qCmJcPkpI98 >}}
+
+<https://www.youtube.com/watch?v=4MKu_jB-UkM>
+
+<https://www.youtube.com/watch?v=gydkOrGrs8Q>
+
+#### Overcoming the imperial way of life
+
+[The text form the ILA collective](https://ilias.unibe.ch/go/file/3512940/download "Only accessible through ILIAS UniBE") provides a concise introduction into the idea of this approach. The video taken from a talk by Ulrich Brand, one of the main proponents of this approach, offers further discussions on this approach:
+
+{{< video https://www.youtube.com/watch?v=4UiT5J0HPHc >}}
+:::
