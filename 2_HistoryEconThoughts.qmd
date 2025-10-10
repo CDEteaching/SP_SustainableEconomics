@@ -16,7 +16,11 @@ Students...
 :::
 :::::
 
-Walter Ötsch is a professor at the Koblenz University of Applied Sciences. As an economist and cultural historian, he researches and publishes on socio-political and economic topics such as populism and the social role of markets. Below you will find a section (chapter 4-9) of a working paper written by him. In this working paper Walter Ötsch describes how economics developed from the moral science of Adam Smith to a science with a biologically determined view of human nature under Malthus and Ricardo. In this process, scientific metaphors (clock system, balance scale, computer information) became increasingly important and economics is increasingly seen as “social physics”. This process is very illustrative for the development of modern neoclassical economics.
+Walter Ötsch is a professor at the Koblenz University of Applied Sciences. As an economist and cultural historian, he researches and publishes on socio-political and economic topics such as populism and the social role of markets. Below you will find a section (chapter 4-9) of a working paper written by him.
+
+**Download and read at least chapters 4-9:**
+
+In this working paper Walter Ötsch describes how economics developed from the moral science of Adam Smith to a science with a biologically determined view of human nature under Malthus and Ricardo. In this process, scientific metaphors (clock system, balance scale, computer information) became increasingly important and economics is increasingly seen as “social physics”. This process is very illustrative for the development of modern neoclassical economics.
 
 ::: {.callout-note collapse="true"}
 ### Brief digression: History of Homo Economicus (optional for interested readers)

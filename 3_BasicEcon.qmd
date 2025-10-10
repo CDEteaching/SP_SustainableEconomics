@@ -201,15 +201,11 @@ For a market to be considered perfectly competitive, several conditions must be 
 
 If the above conditions are not met, there is a **distortion of competition**. In a neoclassical market economy, the state should intervene with regulations in such a situation.
 
-+------------------------+----------------------+-------------------------+---------------+
-|                        | one buyer            | few buyers              | many buyers   |
-+========================+:=====================+=========================+===============+
-| One seller/supplier    | Bilateral Monopoly   | Limited Supply Monopoly | Monopoly      |
-+------------------------+----------------------+-------------------------+---------------+
-| Few sellers/suppliers  | Restricted Monopsony | Bilateral Oligopoly     | Oligopoly     |
-+------------------------+----------------------+-------------------------+---------------+
-| Many sellers/suppliers | Monopsony            | Oligopsony              | Polypoly      |
-+------------------------+----------------------+-------------------------+---------------+
+|   | one buyer | few buyers | many buyers |
+|----|:---|----|----|
+| One seller/supplier | Bilateral Monopoly | Limited Supply Monopoly | Monopoly |
+| Few sellers/suppliers | Restricted Monopsony | Bilateral Oligopoly | Oligopoly |
+| Many sellers/suppliers | Monopsony | Oligopsony | Polypoly |
 
 : Overview of the different market forms. Polypoly is a condition for the assumption of perfect competition {#tbl-marketforms}
 
