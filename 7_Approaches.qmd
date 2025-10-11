@@ -6,7 +6,7 @@ fig-cap-location: bottom
 
 As outlined in the preceding section, the debates around sustainable economics are shaped by different guiding frameworks, which are influenced by various theoretical perspectives within pluralist economics and differ in their understanding of sustainability and their respective viewpoints. Most approaches within sustainable economics can be assigned to the post-growth framework. From the welfare capitalist framework, approaches such as green growth and the circular economy can be derived. The liberal market framework lies largely outside the debate of sustainable economics, although certain aspects of green growth are discussed, such as the internalization of external effects.
 
-In the following, we will engage more deeply with specific approaches. Since the debates within sustainable economics are very diverse, no definitive or fixed classification of the approaches can be made. Nevertheless, we have distinguished between several approaches here. While there are many overlaps among them, in our view they can still be differentiated based on their distinct emphases. This classification is intended to serve as an orientation. For the approaches within the post-growth framework, we follow Schmelzer and Vetter (2023).
+In the following, we will engage more deeply with specific approaches. Since the debates within sustainable economics are very diverse, no definitive or fixed classification of the approaches can be made. Nevertheless, we have distinguished between several approaches here. While there are many overlaps among them, in our view they can still be differentiated based on their distinct emphases. This classification is intended to serve as an orientation. For the approaches within the post-growth framework, we follow @schmelzerDegrowthPostwachstumZur2023.
 
 ::::: learning
 ::: learning-header
@@ -30,7 +30,7 @@ Below you will find a list of different approaches within sustainable economics 
 ::: panel-tabset
 #### Green Growth
 
-[The text by Petschow et al.](https://ilias.unibe.ch/go/file/3512925/download "Only accessible through ILIAS UniBE") serves as an introduction and provides an overview of Green Growth. [This video snippet](https://tobira.unibe.ch/!v/B96EQrQRZHm) is from a contribution by Michael Jacobs for the panel “Focus Panel 1 – Which Prosperous Future? Confronting Narratives of Growth” at the Beyond Growth Conference 2023. If interested, [the full panel discussion](https://www.youtube.com/watch?v=KqtlQcU3PaQ) can be watched.
+[The text by @petschowSocialWellBeingPlanetary2020](https://ilias.unibe.ch/go/file/3512925/download "Only accessible through ILIAS UniBE") serves as an introduction and provides an overview of Green Growth. [This video snippet](https://tobira.unibe.ch/!v/B96EQrQRZHm) is from a contribution by Michael Jacobs for the panel “Focus Panel 1 – Which Prosperous Future? Confronting Narratives of Growth” at the Beyond Growth Conference 2023. If interested, [the full panel discussion](https://www.youtube.com/watch?v=KqtlQcU3PaQ) can be watched.
 
 #### Circular Economy
 

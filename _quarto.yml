@@ -23,7 +23,7 @@ book:
     logo: images/cdelogo_e.png
     tools:
       - icon: file-earmark-pdf
-        href: https://github.com/CDEteaching/SP_IDTDmethods/blob/master/pdf/SP_SustainableEconomics.pdf
+        href: https://github.com/CDEteaching/SP_SustainableEconomics/blob/master/pdf/SP_SustainableEconomics.pdf
         text: "Course Script (PDF)"
       - icon: bug
         href: https://github.com/CDEteaching/SP_SustainableEconomics/issues/new
