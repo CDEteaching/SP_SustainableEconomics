@@ -82,7 +82,7 @@ However, this indicator is only one of several indicators that are used. The Int
 
 The following figure shows the development of the official unemployment rate in Switzerland since 1920. Unemployment in Switzerland has always been very low by international standards. During the post-war economic boom in particular, there was almost no unemployment in Switzerland, which is why the country attracted many workers from abroad – who often worked in precarious conditions. It was not until the crisis of the 1970s that unemployment returned to Switzerland, although the country prevented a sharp rise by exporting unemployment abroad – by 1977, almost 250,000 foreign workers had to leave the country (@degenArbeitUndKapital2012, p. 910).
 
-![1920-1996 Statistical Yearbook of Switzerland; 1997-2019 Seco](images/Fig2_1_employementStat.png){#fig-employment}
+![1920-1996 Statistical Yearbook of Switzerland; 1997-2019 Seco](images/Fig2_1_employmentStat.png){#fig-employment}
 
 Since 1997, the FSO (Federal Statistical Office) has been recording the monetary value and **quantity of unpaid work in Switzerland** every four years using the satellite account for household production ([SHHP](https://www.bfs.admin.ch/bfs/de/home/statistiken/arbeit-erwerb/erwerbstaetigkeit-arbeitszeit/vereinbarkeit-unbezahlte-arbeit/satellitenkonto-haushaltsproduktion.html)). In Switzerland, 9.8 billion hours of unpaid work were performed in 2020 (mostly by women), more than was spent on paid work (7.6 billion hours). The total value of unpaid work in 2020 is estimated at CHF 434 billion. If GDP is expanded to include total household production, this corresponds to 41.4% of the value added of the expanded total economy.
 
