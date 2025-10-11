@@ -1,21 +1,22 @@
-cff-version: 1.1.0
-title: "Special course Introduction to Sustainable Economics"
-version: 1.1.0
-license: "MIT"
-type: lesson
-abstract: "Additional attainments for the Master’s in Sustainability Transformations"
+cff-version: 1.2.0
 message: "If you use this lesson, please cite it as below."
+title: "Special course Introduction to Sustainable Economics"
+abstract: "Additional attainments for the Master’s in Sustainability Transformations"
+version: "1.1.0"
+date-released: 2025-10-11
+license: "MIT"
 authors:
-  - given-names: Nicolà
-    family-names: Bezzola
-    affiliation: Centre for Development and Environment (CDE), University of Bern
-  - given-names: Christoph
-    family-names: Bader
-    affiliation: Centre for Development and Environment (CDE), University of Bern
+  - given-names: "Nicolà"
+    family-names: "Bezzola"
+    affiliation: "Centre for Development and Environment (CDE), University of Bern"
+  - given-names: "Christoph"
+    family-names: "Bader"
+    affiliation: "Centre for Development and Environment (CDE), University of Bern"
     orcid: "https://orcid.org/0000-0002-8991-353X"
-
 keywords:
-  - sustainability transformations
-  - sustainable economics
-  - plural economics
+  - "sustainability transformations"
+  - "sustainable economics"
+  - "plural economics"
+repository-code: "https://github.com/CDEteaching/SP_SustainableEconomics"
+
 
