@@ -30,7 +30,7 @@ Below you will find a list of different approaches within sustainable economics 
 ::: panel-tabset
 #### Green Growth
 
-[The text by @petschowSocialWellBeingPlanetary2020](https://ilias.unibe.ch/go/file/3512925/download "Only accessible through ILIAS UniBE") serves as an introduction and provides an overview of Green Growth. [This video snippet](https://tobira.unibe.ch/!v/B96EQrQRZHm) is from a contribution by Michael Jacobs for the panel “Focus Panel 1 – Which Prosperous Future? Confronting Narratives of Growth” at the Beyond Growth Conference 2023. If interested, [the full panel discussion](https://www.youtube.com/watch?v=KqtlQcU3PaQ) can be watched.
+[The text by \@petschowSocialWellBeingPlanetary2020](https://ilias.unibe.ch/go/file/3512925/download "Only accessible through ILIAS UniBE") serves as an introduction and provides an overview of Green Growth. [This video snippet](https://tobira.unibe.ch/!v/B96EQrQRZHm) is from a contribution by Michael Jacobs for the panel “Focus Panel 1 – Which Prosperous Future? Confronting Narratives of Growth” at the Beyond Growth Conference 2023. If interested, [the full panel discussion](https://www.youtube.com/watch?v=KqtlQcU3PaQ) can be watched.
 
 #### Circular Economy
 
@@ -65,6 +65,7 @@ This video by Niko Paech, prominent proponent of this approach, will provide an 
 {{< video https://www.youtube.com/watch?v=qCmJcPkpI98 >}}
 
 Further readings:
+
 <https://www.youtube.com/watch?v=4MKu_jB-UkM>
 
 <https://www.youtube.com/watch?v=gydkOrGrs8Q>
