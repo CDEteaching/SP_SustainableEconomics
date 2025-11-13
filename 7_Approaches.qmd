@@ -64,6 +64,7 @@ This video by Niko Paech, prominent proponent of this approach, will provide an 
 
 {{< video https://www.youtube.com/watch?v=qCmJcPkpI98 >}}
 
+Further readings:
 <https://www.youtube.com/watch?v=4MKu_jB-UkM>
 
 <https://www.youtube.com/watch?v=gydkOrGrs8Q>

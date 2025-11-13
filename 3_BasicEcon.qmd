@@ -87,7 +87,7 @@ The following figure shows the development of the official unemployment rate in 
 Since 1997, the FSO (Federal Statistical Office) has been recording the monetary value and **quantity of unpaid work in Switzerland** every four years using the satellite account for household production ([SHHP](https://www.bfs.admin.ch/bfs/de/home/statistiken/arbeit-erwerb/erwerbstaetigkeit-arbeitszeit/vereinbarkeit-unbezahlte-arbeit/satellitenkonto-haushaltsproduktion.html)). In Switzerland, 9.8 billion hours of unpaid work were performed in 2020 (mostly by women), more than was spent on paid work (7.6 billion hours). The total value of unpaid work in 2020 is estimated at CHF 434 billion. If GDP is expanded to include total household production, this corresponds to 41.4% of the value added of the expanded total economy.
 
 ::: {.callout-tip collapse="true"}
-### Questions for reflection (.unnumbered)
+### Questions for reflection
 
 -   Collect two examples for each of the three factors of production.
 -   Collect examples of (re)production factors that are insufficiently represented in the three classic production factors.
@@ -147,7 +147,7 @@ $$ R = Q * P $$
 A company produces until the marginal costs exceed the marginal revenues. This can be calculated by equating the derivatives of the cost and revenue functions. In market equilibrium (under perfect com-petition), theoretically the price corresponds to the marginal costs. Although neoclassical theory focuses heavily on the price, it has paid little attention to how companies set prices. In his dissertation, Nubbemeyer (2010) shows that until the middle of the 20th century, there was a controversial debate about whether companies actually base their pricing on the marginal principle or on alternative concepts (e.g., mark-up pricing as in some post-Keynesian models). Although the debate was not conclusively resolved, the marginal principle prevailed with the advent of neoclassical economics.
 
 ::: {.callout-tip collapse="true"}
-### Questions for reflection (.unnumbered)
+### Questions for reflection
 
 -   How many employees does a company hire according to the marginal principle?
 -   According to theory, what determines the level of employees' wages?
@@ -218,7 +218,7 @@ If the above conditions are not met, there is a **distortion of competition**. I
 This market mechanism for coordinating supply and demand is applied to various markets. A fundamental distinction is made between goods markets and factor markets. Goods and services are traded on **goods markets**. On **factor markets,** the factors of production (land, capital, labor) are supplied and demanded. For example, households offer their labor on the labor market, and instead of a price, the demand from companies determines the level of wages paid through the price mechanism. Karl Polanyi describes how the introduction of factor markets led to the development of today's "market society" and how social processes are increasingly aligning themselves with market logic (@polanyiGreatTransformation2017).
 
 ::: {.callout-tip collapse="true"}
-### Questions for reflection (.unnumbered)
+### Questions for reflection
 
 -   For all three conditions of perfect competition, think of examples from today's economy where these conditions are met and where they are not.
 -   Are there differences in the demand for different goods? How does this affect markets for food, cars, and leisure activities?
@@ -248,7 +248,7 @@ In most conventional circular flow analyses, only the market economy is represen
 ![Circular flow model according to Diane Elson 2000](images/Fig2_7_CircularFlow.png){#fig-CircularFlow3}
 
 ::: {.callout-tip collapse="true"}
-### Questions for reflection (.unnumbered)
+### Questions for reflection
 
 -   What happens in the simple circular flow model when total economic expenditure remains the same and corporate profits rise at the same time?
 -   How does falling consumer spending affect the economy in this model?
@@ -278,7 +278,7 @@ In the **inter-company division of labor**, production processes are distributed
 Finally, the **international division of labor** describes the division of labor at the global level. With the increase in globalization since the 1980s, the interdependence of the global economy has steadily grown. In addition, the division of labor is increasingly taking place along the value chains of individual goods and not just between goods. A separate field of research has developed on such global value chains.
 
 ::: {.callout-tip collapse="true"}
-### Questions for reflection (.unnumbered)
+### Questions for reflection
 
 -   Consider two advantages and two disadvantages of the division of labor at the company, inter-company, and international levels.
 -   Do you know of any specific examples of national specialization? Research how this specialization was implemented.
@@ -346,7 +346,7 @@ The price paid for the use of goods does not always correspond to their true soc
 : Overview of types of external effects. {#tbl-exteffects}
 
 ::: {.callout-tip collapse="true"}
-### Questions for reflection (.unnumbered)
+### Questions for reflection
 
 -   Collect two examples of each of the four categories of goods that you encounter in everyday life.
 -   What are the advantages and disadvantages of privatizing common goods? Consider this using a specific example.
@@ -406,7 +406,7 @@ The question of the discount rate represents a clear ethical position in this ex
 The calculation of future costs and benefits therefore depends on many assumptions and ethical questions. These are supposed to be reflected numerically in the discount rate.
 
 ::: {.callout-tip collapse="true"}
-### Questions for reflection (.unnumbered)
+### Questions for reflection
 
 -   Consider how the following decision-making principles affect the discount rate:
     -   Intergenerational justice
@@ -450,7 +450,7 @@ The following chart shows the development of GDP per capita for various countrie
 ![Own illustration, based on Kubiszweski (2019)](images/Fig2_12__GDP1000_2000.png){#fig-GDPhist}
 
 ::: {.callout-tip collapse="true"}
-### Questions for reflection (.unnumbered)
+### Questions for reflection
 
 -   Do you think GDP is a useful measure of a nation's prosperity? What are the arguments for and against it?
 -   Think of examples from everyday life in which the growth paradigm can be seen.
